@@ -1,0 +1,162 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<c2uistate>
+    <!--This is a UI state file - its content describes the user interface settings when the project was last open.
+It is entirely optional and the project will load without it.  If you are placing the project under source control,
+you probably do not want to add any .uistate.xml files to the repository.-->
+    <configurations>
+        <active>
+            <configuration name="HTML5" />
+        </active>
+        <display name="HTML5" />
+    </configurations>
+    <open-tabs>
+        <layout active="1" order="0">Layout 1</layout>
+        <event-sheet order="1">Event sheet 1</event-sheet>
+    </open-tabs>
+    <properties>
+        <property expanded="1" name="About" />
+        <property expanded="1" name="Project settings" />
+        <property expanded="0" name="Window Size" />
+        <property expanded="1" name="Configuration Settings" />
+    </properties>
+    <families-expanded root="0">
+        <family expanded="0" name="TestFamily" />
+    </families-expanded>
+    <folders-expanded>
+        <folder expanded="1" path="object-folder/" />
+        <folder expanded="0" path="object-folder/Test sprites/" />
+        <folder expanded="1" path="layout-folder/" />
+        <folder expanded="1" path="event-folder/" />
+        <folder expanded="1" path="file-folder/" />
+        <folder expanded="0" path="sound-folder/" />
+        <folder expanded="1" path="music-folder/" />
+        <folder expanded="0" path="file-folder/Icons/" />
+        <folder expanded="1" path="file-folder/Spriter animations/" />
+        <folder expanded="1" path="animation-folder/Test_entity_001_test/" />
+        <folder expanded="1" path="animation-folder/Test_entity_001_RSHhoodie_001/" />
+        <folder expanded="1" path="animation-folder/Test_entity_001_RFAHoodie_001/" />
+        <folder expanded="1" path="animation-folder/Test_entity_001_Rsneakertoe_000/" />
+        <folder expanded="1" path="animation-folder/Test_entity_001_34Hood_000/" />
+        <folder expanded="1" path="animation-folder/Test_entity_001_34hoodieflap_000/" />
+        <folder expanded="1" path="animation-folder/Test_entity_001_34hoodiechest_000/" />
+        <folder expanded="1" path="animation-folder/Test_entity_001_34hoodiestomach_000/" />
+        <folder expanded="1" path="animation-folder/Test_entity_001_RSneakerfoot_001/" />
+        <folder expanded="1" path="animation-folder/Test_entity_001_Rsocktoe_000/" />
+        <folder expanded="1" path="animation-folder/Test_entity_001_HoodieT2_000/" />
+        <folder expanded="1" path="animation-folder/Test_entity_001_RSHhoodie_002/" />
+        <folder expanded="1" path="animation-folder/Test_entity_001_Rsock/" />
+        <folder expanded="1" path="animation-folder/Test_entity_001_Lsneakertoe_000/" />
+        <folder expanded="1" path="animation-folder/Test_entity_001_LSneakerfoot_000/" />
+        <folder expanded="1" path="animation-folder/Test_entity_001_LToeSock_000/" />
+        <folder expanded="1" path="animation-folder/Test_entity_001_LFootSock_000/" />
+        <folder expanded="1" path="animation-folder/Test_entity_001_HoodieT1_000/" />
+        <folder expanded="1" path="animation-folder/Test_entity_001_Hood_000/" />
+        <folder expanded="1" path="animation-folder/Test_entity_001_RFAHoodie_002/" />
+        <folder expanded="1" path="animation-folder/Test_entity_001_Lsneakertoe_001/" />
+        <folder expanded="1" path="animation-folder/Test_entity_001_LToeSock_001/" />
+        <folder expanded="1" path="animation-folder/Test_entity_001_LFootSock_001/" />
+        <folder expanded="1" path="animation-folder/Test_entity_001_LSHHoodie_002/" />
+        <folder expanded="1" path="animation-folder/Test_entity_001_RFootSock_000/" />
+        <folder expanded="1" path="animation-folder/Test_entity_001_Rsocktoe_002/" />
+        <folder expanded="1" path="animation-folder/Test_entity_001_LSHHoodie_000/" />
+        <folder expanded="1" path="animation-folder/Test_entity_001_Rsneakerfoot_002/" />
+        <folder expanded="1" path="animation-folder/Test_entity_001_Rsneakertoe_002/" />
+        <folder expanded="1" path="animation-folder/Test_entity_001_LFootSock_002/" />
+        <folder expanded="1" path="animation-folder/Test_entity_001_LToeSock_002/" />
+        <folder expanded="1" path="animation-folder/Test_entity_001_LSneakerfoot_002/" />
+        <folder expanded="1" path="animation-folder/Test_entity_001_Lsneakertoe_002/" />
+        <folder expanded="1" path="animation-folder/Test_entity_001_LFAHoodie_000/" />
+        <folder expanded="1" path="animation-folder/Test_entity_001_LFAHoodie_002/" />
+        <folder expanded="1" path="animation-folder/Test_entity_001_RSHhoodie_000/" />
+        <folder expanded="1" path="animation-folder/Test_entity_001_LSneakerfoot_001/" />
+        <folder expanded="1" path="animation-folder/Test_entity_001_RFAHoodie_000/" />
+        <folder expanded="1" path="animation-folder/Test_entity_001_Hairtail/" />
+        <folder expanded="1" path="animation-folder/Test_entity_001_LSHHoodie_001/" />
+        <folder expanded="1" path="animation-folder/Test_entity_001_LFAHoodie_001/" />
+        <folder expanded="1" path="animation-folder/Test_entity_001_test2/" />
+        <folder expanded="1" path="animation-folder/Test_entity_001_BackHair/" />
+        <folder expanded="1" path="animation-folder/Test_entity_001_L1/" />
+        <folder expanded="1" path="animation-folder/Test_entity_001_34Ptest/" />
+        <folder expanded="1" path="animation-folder/Test_entity_001_LSHHoodie/" />
+        <folder expanded="1" path="animation-folder/Test_entity_001_34t2test/" />
+        <folder expanded="1" path="animation-folder/Test_entity_001_34hoodieflap/" />
+        <folder expanded="1" path="animation-folder/Test_entity_001_LFAHoodie/" />
+        <folder expanded="1" path="animation-folder/Test_entity_001_RTtest/" />
+        <folder expanded="1" path="animation-folder/Test_entity_001_34t1test/" />
+        <folder expanded="1" path="animation-folder/Test_entity_001_LStest/" />
+        <folder expanded="1" path="animation-folder/Test_entity_001_34Hood/" />
+        <folder expanded="1" path="animation-folder/Test_entity_001_LFtest/" />
+        <folder expanded="1" path="animation-folder/Test_entity_001_34hoodiestomach/" />
+        <folder expanded="1" path="animation-folder/Test_entity_001_Ltoe/" />
+        <folder expanded="1" path="animation-folder/Test_entity_001_34hoodiechest/" />
+        <folder expanded="1" path="animation-folder/Test_entity_001_LFootSock/" />
+        <folder expanded="1" path="animation-folder/Test_entity_001_Head/" />
+        <folder expanded="1" path="animation-folder/Test_entity_001_34RFtest/" />
+        <folder expanded="1" path="animation-folder/Test_entity_001_LToeSock/" />
+        <folder expanded="1" path="animation-folder/Test_entity_001_LSneakerfoot/" />
+        <folder expanded="1" path="animation-folder/Test_entity_001_Rtoe_000/" />
+        <folder expanded="1" path="animation-folder/Test_entity_001_Rsock_000/" />
+        <folder expanded="1" path="animation-folder/Test_entity_001_Lsneakertoe/" />
+        <folder expanded="1" path="animation-folder/Test_entity_001_Ptest/" />
+        <folder expanded="1" path="animation-folder/Test_entity_001_Rsocktoe_001/" />
+        <folder expanded="1" path="animation-folder/Test_entity_001_Face1_000/" />
+        <folder expanded="1" path="animation-folder/Test_entity_001_FrontHair/" />
+        <folder expanded="1" path="animation-folder/Test_entity_001_Hairback/" />
+        <folder expanded="1" path="animation-folder/Test_entity_001_RSneakerfoot_000/" />
+        <folder expanded="1" path="animation-folder/Test_entity_001_Neck/" />
+        <folder expanded="1" path="animation-folder/Test_entity_001_Rsneakertoe_001/" />
+        <folder expanded="1" path="animation-folder/Test_entity_001_T2test/" />
+        <folder expanded="1" path="animation-folder/Test_entity_001_T1test/" />
+        <folder expanded="1" path="animation-folder/Test_entity_001_LTtest/" />
+        <folder expanded="1" path="animation-folder/Test_entity_001_HoodieT2/" />
+        <folder expanded="1" path="animation-folder/Test_entity_001_HoodieT1/" />
+        <folder expanded="1" path="animation-folder/Test_entity_001_Head1/" />
+        <folder expanded="1" path="animation-folder/Test_entity_001_Face1/" />
+        <folder expanded="1" path="animation-folder/Test_entity_001_HairFront/" />
+        <folder expanded="1" path="animation-folder/Test_entity_001_RStest/" />
+        <folder expanded="1" path="animation-folder/Test_entity_001_RFtest/" />
+        <folder expanded="1" path="animation-folder/Test_entity_001_Rtoe/" />
+        <folder expanded="1" path="animation-folder/Test_entity_001_RFootSock/" />
+        <folder expanded="1" path="animation-folder/Test_entity_001_Rsocktoe/" />
+        <folder expanded="1" path="animation-folder/Test_entity_001_Rsneakerfoot/" />
+        <folder expanded="1" path="animation-folder/Test_entity_001_Rsneakertoe/" />
+        <folder expanded="1" path="animation-folder/Test_entity_001_RFAtest/" />
+        <folder expanded="1" path="animation-folder/Test_entity_001_RSHtest/" />
+        <folder expanded="1" path="animation-folder/Test_entity_001_R1/" />
+        <folder expanded="1" path="animation-folder/Test_entity_001_RSHhoodie/" />
+        <folder expanded="1" path="animation-folder/Test_entity_001_RFAHoodie/" />
+        <folder expanded="1" path="animation-folder/Test_entity_001_Hood/" />
+        <folder expanded="1" path="animation-folder/Test_entity_001_Foot/" />
+        <folder expanded="1" path="animation-folder/Test_entity_001_Head1_000/" />
+        <folder expanded="1" path="animation-folder/Test_entity_001_Face1_001/" />
+        <folder expanded="1" path="animation-folder/Test_entity_001_Lfist_000/" />
+        <folder expanded="1" path="animation-folder/Test_entity_001_Hairback_000/" />
+        <folder expanded="1" path="animation-folder/Test_entity_001_Lfist/" />
+        <folder expanded="1" path="animation-folder/Test_entity_001_Rfist_004/" />
+        <folder expanded="1" path="animation-folder/Test_entity_001_HairFront_000/" />
+        <folder expanded="1" path="animation-folder/Test_entity_001_Lfist_004/" />
+        <folder expanded="1" path="animation-folder/Test_entity_001_Rfist_000/" />
+        <folder expanded="1" path="animation-folder/Test_entity_001_Lfist_003/" />
+        <folder expanded="1" path="animation-folder/Test_entity_001_Rfist_003/" />
+        <folder expanded="1" path="animation-folder/Test_entity_001_34Neck_000/" />
+        <folder expanded="1" path="animation-folder/Test_entity_001_Rfist/" />
+        <folder expanded="1" path="animation-folder/Test_entity_001_34Neck/" />
+        <folder expanded="1" path="animation-folder/Test_entity_001_Face2/" />
+        <folder expanded="1" path="animation-folder/Test_entity_001_Face2_000/" />
+        <folder expanded="1" path="animation-folder/Test_entity_001_Face2_001/" />
+        <folder expanded="1" path="animation-folder/Test_entity_001_Skirt1/" />
+        <folder expanded="1" path="animation-folder/Test_entity_001_SKBT1/" />
+        <folder expanded="1" path="animation-folder/Test_entity_001_SKBT2/" />
+        <folder expanded="1" path="animation-folder/Test_entity_001_SKBT3/" />
+        <folder expanded="1" path="animation-folder/Test_entity_001_SKBT4/" />
+        <folder expanded="1" path="animation-folder/Test_entity_001_SKTP1/" />
+        <folder expanded="1" path="animation-folder/Test_entity_001_SKTP2/" />
+        <folder expanded="1" path="animation-folder/Test_entity_001_SKTP3/" />
+        <folder expanded="1" path="animation-folder/Test/" />
+        <folder expanded="1" path="animation-folder/Ground/" />
+        <folder expanded="1" path="animation-folder/PlayerBox/" />
+        <folder expanded="1" path="animation-folder/Camera/" />
+        <folder expanded="1" path="animation-folder/Mud/" />
+        <folder expanded="1" path="animation-folder/Hoodie/" />
+    </folders-expanded>
+</c2uistate>

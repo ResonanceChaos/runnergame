@@ -1,0 +1,2396 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<c2eventsheet>
+    <!--All the 'name' attributes are ignored by Construct 2 - they are there for readability only.-->
+    <name>Event sheet 1</name>
+    <events>
+        <event-block sid="567352441911357">
+            <conditions>
+                <condition id="666" name="On initialised" sid="895227972794693" type="Test" />
+            </conditions>
+            <actions>
+                <action id="666" name="Associate object type" sid="586915852907808" type="Test">
+                    <param id="0" name="Object">Test_entity_001_Foot</param>
+                    <param id="1" name="Name">&quot;entity_001_Foot&quot;</param>
+                </action>
+                <action id="666" name="Associate object type" sid="295914978529570" type="Test">
+                    <param id="0" name="Object">Test_entity_001_test</param>
+                    <param id="1" name="Name">&quot;entity_001_test&quot;</param>
+                </action>
+                <action id="666" name="Associate object type" sid="856334302650398" type="Test">
+                    <param id="0" name="Object">Test_entity_001_LFootSock_001</param>
+                    <param id="1" name="Name">&quot;entity_001_LFootSock_001&quot;</param>
+                </action>
+                <action id="666" name="Associate object type" sid="605276043033484" type="Test">
+                    <param id="0" name="Object">Test_entity_001_LToeSock_001</param>
+                    <param id="1" name="Name">&quot;entity_001_LToeSock_001&quot;</param>
+                </action>
+                <action id="666" name="Associate object type" sid="815872705923496" type="Test">
+                    <param id="0" name="Object">Test_entity_001_LSneakerfoot_001</param>
+                    <param id="1" name="Name">&quot;entity_001_LSneakerfoot_001&quot;</param>
+                </action>
+                <action id="666" name="Associate object type" sid="696572271884681" type="Test">
+                    <param id="0" name="Object">Test_entity_001_Rfist_004</param>
+                    <param id="1" name="Name">&quot;entity_001_Rfist_004&quot;</param>
+                </action>
+                <action id="666" name="Associate object type" sid="596093990145247" type="Test">
+                    <param id="0" name="Object">Test_entity_001_LFootSock_000</param>
+                    <param id="1" name="Name">&quot;entity_001_LFootSock_000&quot;</param>
+                </action>
+                <action id="666" name="Associate object type" sid="905100662009168" type="Test">
+                    <param id="0" name="Object">Test_entity_001_LToeSock_000</param>
+                    <param id="1" name="Name">&quot;entity_001_LToeSock_000&quot;</param>
+                </action>
+                <action id="666" name="Associate object type" sid="878121642984356" type="Test">
+                    <param id="0" name="Object">Test_entity_001_LSneakerfoot_000</param>
+                    <param id="1" name="Name">&quot;entity_001_LSneakerfoot_000&quot;</param>
+                </action>
+                <action id="666" name="Associate object type" sid="554138042363462" type="Test">
+                    <param id="0" name="Object">Test_entity_001_Lsneakertoe_000</param>
+                    <param id="1" name="Name">&quot;entity_001_Lsneakertoe_000&quot;</param>
+                </action>
+                <action id="666" name="Associate object type" sid="977001918529728" type="Test">
+                    <param id="0" name="Object">Test_entity_001_Rsock</param>
+                    <param id="1" name="Name">&quot;entity_001_Rsock&quot;</param>
+                </action>
+                <action id="666" name="Associate object type" sid="904038070745303" type="Test">
+                    <param id="0" name="Object">Test_entity_001_Rsocktoe_000</param>
+                    <param id="1" name="Name">&quot;entity_001_Rsocktoe_000&quot;</param>
+                </action>
+                <action id="666" name="Associate object type" sid="832080725311936" type="Test">
+                    <param id="0" name="Object">Test_entity_001_RSneakerfoot_001</param>
+                    <param id="1" name="Name">&quot;entity_001_RSneakerfoot_001&quot;</param>
+                </action>
+                <action id="666" name="Associate object type" sid="154046685879550" type="Test">
+                    <param id="0" name="Object">Test_entity_001_Rsneakertoe_000</param>
+                    <param id="1" name="Name">&quot;entity_001_Rsneakertoe_000&quot;</param>
+                </action>
+                <action id="666" name="Associate object type" sid="610914755900720" type="Test">
+                    <param id="0" name="Object">Test_entity_001_LSHHoodie_001</param>
+                    <param id="1" name="Name">&quot;entity_001_LSHHoodie_001&quot;</param>
+                </action>
+                <action id="666" name="Associate object type" sid="240249108465924" type="Test">
+                    <param id="0" name="Object">Test_entity_001_LFAHoodie_001</param>
+                    <param id="1" name="Name">&quot;entity_001_LFAHoodie_001&quot;</param>
+                </action>
+                <action id="666" name="Associate object type" sid="941503100102847" type="Test">
+                    <param id="0" name="Object">Test_entity_001_RSHhoodie_001</param>
+                    <param id="1" name="Name">&quot;entity_001_RSHhoodie_001&quot;</param>
+                </action>
+                <action id="666" name="Associate object type" sid="971363478549429" type="Test">
+                    <param id="0" name="Object">Test_entity_001_RFAHoodie_001</param>
+                    <param id="1" name="Name">&quot;entity_001_RFAHoodie_001&quot;</param>
+                </action>
+                <action id="666" name="Associate object type" sid="652369051359743" type="Test">
+                    <param id="0" name="Object">Test_entity_001_34hoodieflap_000</param>
+                    <param id="1" name="Name">&quot;entity_001_34hoodieflap_000&quot;</param>
+                </action>
+                <action id="666" name="Associate object type" sid="221859072006250" type="Test">
+                    <param id="0" name="Object">Test_entity_001_34hoodiechest_000</param>
+                    <param id="1" name="Name">&quot;entity_001_34hoodiechest_000&quot;</param>
+                </action>
+                <action id="666" name="Associate object type" sid="341504538467525" type="Test">
+                    <param id="0" name="Object">Test_entity_001_34hoodiestomach_000</param>
+                    <param id="1" name="Name">&quot;entity_001_34hoodiestomach_000&quot;</param>
+                </action>
+                <action id="666" name="Associate object type" sid="161789208070595" type="Test">
+                    <param id="0" name="Object">Test_entity_001_34Hood_000</param>
+                    <param id="1" name="Name">&quot;entity_001_34Hood_000&quot;</param>
+                </action>
+                <action id="666" name="Associate object type" sid="348797834145496" type="Test">
+                    <param id="0" name="Object">Test_entity_001_34Neck_000</param>
+                    <param id="1" name="Name">&quot;entity_001_34Neck_000&quot;</param>
+                </action>
+                <action id="666" name="Associate object type" sid="401590301982836" type="Test">
+                    <param id="0" name="Object">Test_entity_001_Head1_000</param>
+                    <param id="1" name="Name">&quot;entity_001_Head1_000&quot;</param>
+                </action>
+                <action id="666" name="Associate object type" sid="590766171098713" type="Test">
+                    <param id="0" name="Object">Test_entity_001_Face1_001</param>
+                    <param id="1" name="Name">&quot;entity_001_Face1_001&quot;</param>
+                </action>
+                <action id="666" name="Associate object type" sid="828138311477255" type="Test">
+                    <param id="0" name="Object">Test_entity_001_Hairback_000</param>
+                    <param id="1" name="Name">&quot;entity_001_Hairback_000&quot;</param>
+                </action>
+                <action id="666" name="Associate object type" sid="860746852604953" type="Test">
+                    <param id="0" name="Object">Test_entity_001_HairFront_000</param>
+                    <param id="1" name="Name">&quot;entity_001_HairFront_000&quot;</param>
+                </action>
+                <action id="666" name="Associate object type" sid="714691285333058" type="Test">
+                    <param id="0" name="Object">Test_entity_001_HoodieT2_000</param>
+                    <param id="1" name="Name">&quot;entity_001_HoodieT2_000&quot;</param>
+                </action>
+                <action id="666" name="Associate object type" sid="580781857466935" type="Test">
+                    <param id="0" name="Object">Test_entity_001_HoodieT1_000</param>
+                    <param id="1" name="Name">&quot;entity_001_HoodieT1_000&quot;</param>
+                </action>
+                <action id="666" name="Associate object type" sid="982886125800188" type="Test">
+                    <param id="0" name="Object">Test_entity_001_Hood_000</param>
+                    <param id="1" name="Name">&quot;entity_001_Hood_000&quot;</param>
+                </action>
+                <action id="666" name="Associate object type" sid="904187444869237" type="Test">
+                    <param id="0" name="Object">Test_entity_001_RSHhoodie_002</param>
+                    <param id="1" name="Name">&quot;entity_001_RSHhoodie_002&quot;</param>
+                </action>
+                <action id="666" name="Associate object type" sid="883227500930209" type="Test">
+                    <param id="0" name="Object">Test_entity_001_RFAHoodie_002</param>
+                    <param id="1" name="Name">&quot;entity_001_RFAHoodie_002&quot;</param>
+                </action>
+                <action id="666" name="Associate object type" sid="346553078971440" type="Test">
+                    <param id="0" name="Object">Test_entity_001_LSHHoodie_002</param>
+                    <param id="1" name="Name">&quot;entity_001_LSHHoodie_002&quot;</param>
+                </action>
+                <action id="666" name="Associate object type" sid="322073050075389" type="Test">
+                    <param id="0" name="Object">Test_entity_001_LFAHoodie_002</param>
+                    <param id="1" name="Name">&quot;entity_001_LFAHoodie_002&quot;</param>
+                </action>
+                <action id="666" name="Associate object type" sid="279895669576310" type="Test">
+                    <param id="0" name="Object">Test_entity_001_RFootSock_000</param>
+                    <param id="1" name="Name">&quot;entity_001_RFootSock_000&quot;</param>
+                </action>
+                <action id="666" name="Associate object type" sid="325493947107018" type="Test">
+                    <param id="0" name="Object">Test_entity_001_Rsocktoe_002</param>
+                    <param id="1" name="Name">&quot;entity_001_Rsocktoe_002&quot;</param>
+                </action>
+                <action id="666" name="Associate object type" sid="522277889726566" type="Test">
+                    <param id="0" name="Object">Test_entity_001_Rsneakerfoot_002</param>
+                    <param id="1" name="Name">&quot;entity_001_Rsneakerfoot_002&quot;</param>
+                </action>
+                <action id="666" name="Associate object type" sid="397137682275235" type="Test">
+                    <param id="0" name="Object">Test_entity_001_Rsneakertoe_002</param>
+                    <param id="1" name="Name">&quot;entity_001_Rsneakertoe_002&quot;</param>
+                </action>
+                <action id="666" name="Associate object type" sid="976703445034613" type="Test">
+                    <param id="0" name="Object">Test_entity_001_LFootSock_002</param>
+                    <param id="1" name="Name">&quot;entity_001_LFootSock_002&quot;</param>
+                </action>
+                <action id="666" name="Associate object type" sid="198257831670353" type="Test">
+                    <param id="0" name="Object">Test_entity_001_LToeSock_002</param>
+                    <param id="1" name="Name">&quot;entity_001_LToeSock_002&quot;</param>
+                </action>
+                <action id="666" name="Associate object type" sid="137388973179471" type="Test">
+                    <param id="0" name="Object">Test_entity_001_LSneakerfoot_002</param>
+                    <param id="1" name="Name">&quot;entity_001_LSneakerfoot_002&quot;</param>
+                </action>
+                <action id="666" name="Associate object type" sid="217036556663735" type="Test">
+                    <param id="0" name="Object">Test_entity_001_Lsneakertoe_002</param>
+                    <param id="1" name="Name">&quot;entity_001_Lsneakertoe_002&quot;</param>
+                </action>
+                <action id="666" name="Associate object type" sid="534615814360974" type="Test">
+                    <param id="0" name="Object">Test_entity_001_Lfist</param>
+                    <param id="1" name="Name">&quot;entity_001_Lfist&quot;</param>
+                </action>
+                <action id="666" name="Associate object type" sid="724020214216592" type="Test">
+                    <param id="0" name="Object">Test_entity_001_Lfist_004</param>
+                    <param id="1" name="Name">&quot;entity_001_Lfist_004&quot;</param>
+                </action>
+                <action id="666" name="Associate object type" sid="677192998396351" type="Test">
+                    <param id="0" name="Object">Test_entity_001_Hairtail</param>
+                    <param id="1" name="Name">&quot;entity_001_Hairtail&quot;</param>
+                </action>
+                <action id="666" name="Associate object type" sid="760692836903801" type="Test">
+                    <param id="0" name="Object">Test_entity_001_Lsneakertoe_001</param>
+                    <param id="1" name="Name">&quot;entity_001_Lsneakertoe_001&quot;</param>
+                </action>
+                <action id="666" name="Associate object type" sid="667777197500079" type="Test">
+                    <param id="0" name="Object">Test_entity_001_Lfist_000</param>
+                    <param id="1" name="Name">&quot;entity_001_Lfist_000&quot;</param>
+                </action>
+                <action id="666" name="Associate object type" sid="837360193142815" type="Test">
+                    <param id="0" name="Object">Test_entity_001_Rfist_000</param>
+                    <param id="1" name="Name">&quot;entity_001_Rfist_000&quot;</param>
+                </action>
+                <action id="666" name="Associate object type" sid="877709103716551" type="Test">
+                    <param id="0" name="Object">Test_entity_001_Lfist_003</param>
+                    <param id="1" name="Name">&quot;entity_001_Lfist_003&quot;</param>
+                </action>
+                <action id="666" name="Associate object type" sid="497543933106633" type="Test">
+                    <param id="0" name="Object">Test_entity_001_RFAHoodie_000</param>
+                    <param id="1" name="Name">&quot;entity_001_RFAHoodie_000&quot;</param>
+                </action>
+                <action id="666" name="Associate object type" sid="156616074170981" type="Test">
+                    <param id="0" name="Object">Test_entity_001_RSHhoodie_000</param>
+                    <param id="1" name="Name">&quot;entity_001_RSHhoodie_000&quot;</param>
+                </action>
+                <action id="666" name="Associate object type" sid="914532183155166" type="Test">
+                    <param id="0" name="Object">Test_entity_001_LSHHoodie_000</param>
+                    <param id="1" name="Name">&quot;entity_001_LSHHoodie_000&quot;</param>
+                </action>
+                <action id="666" name="Associate object type" sid="681858766303223" type="Test">
+                    <param id="0" name="Object">Test_entity_001_LFAHoodie_000</param>
+                    <param id="1" name="Name">&quot;entity_001_LFAHoodie_000&quot;</param>
+                </action>
+                <action id="666" name="Associate object type" sid="536044095069070" type="Test">
+                    <param id="0" name="Object">Test_entity_001_Rfist_003</param>
+                    <param id="1" name="Name">&quot;entity_001_Rfist_003&quot;</param>
+                </action>
+                <action id="666" name="Associate object type" sid="271606010598941" type="Test">
+                    <param id="0" name="Object">Test_entity_001_Face2</param>
+                    <param id="1" name="Name">&quot;entity_001_Face2&quot;</param>
+                </action>
+                <action id="666" name="Associate object type" sid="540510482144002" type="Test">
+                    <param id="0" name="Object">Test_entity_001_Face2_000</param>
+                    <param id="1" name="Name">&quot;entity_001_Face2_000&quot;</param>
+                </action>
+                <action id="666" name="Associate object type" sid="812711531749652" type="Test">
+                    <param id="0" name="Object">Test_entity_001_Face2_001</param>
+                    <param id="1" name="Name">&quot;entity_001_Face2_001&quot;</param>
+                </action>
+                <action id="666" name="Associate object type" sid="428117548222958" type="Test">
+                    <param id="0" name="Object">Test_entity_001_test2</param>
+                    <param id="1" name="Name">&quot;entity_001_test2&quot;</param>
+                </action>
+                <action id="666" name="Associate object type" sid="130379958268859" type="Test">
+                    <param id="0" name="Object">Test_entity_001_Rfist</param>
+                    <param id="1" name="Name">&quot;entity_001_Rfist&quot;</param>
+                </action>
+                <action id="666" name="Associate object type" sid="135532365981478" type="Test">
+                    <param id="0" name="Object">Test_entity_001_BackHair</param>
+                    <param id="1" name="Name">&quot;entity_001_BackHair&quot;</param>
+                </action>
+                <action id="666" name="Associate object type" sid="732764219709888" type="Test">
+                    <param id="0" name="Object">Test_entity_001_L1</param>
+                    <param id="1" name="Name">&quot;entity_001_L1&quot;</param>
+                </action>
+                <action id="666" name="Associate object type" sid="183334573964198" type="Test">
+                    <param id="0" name="Object">Test_entity_001_34Ptest</param>
+                    <param id="1" name="Name">&quot;entity_001_34Ptest&quot;</param>
+                </action>
+                <action id="666" name="Associate object type" sid="791698553329169" type="Test">
+                    <param id="0" name="Object">Test_entity_001_34t2test</param>
+                    <param id="1" name="Name">&quot;entity_001_34t2test&quot;</param>
+                </action>
+                <action id="666" name="Associate object type" sid="207977946813552" type="Test">
+                    <param id="0" name="Object">Test_entity_001_LSHHoodie</param>
+                    <param id="1" name="Name">&quot;entity_001_LSHHoodie&quot;</param>
+                </action>
+                <action id="666" name="Associate object type" sid="245142112632879" type="Test">
+                    <param id="0" name="Object">Test_entity_001_34hoodieflap</param>
+                    <param id="1" name="Name">&quot;entity_001_34hoodieflap&quot;</param>
+                </action>
+                <action id="666" name="Associate object type" sid="845133279091788" type="Test">
+                    <param id="0" name="Object">Test_entity_001_LFAHoodie</param>
+                    <param id="1" name="Name">&quot;entity_001_LFAHoodie&quot;</param>
+                </action>
+                <action id="666" name="Associate object type" sid="926269494499645" type="Test">
+                    <param id="0" name="Object">Test_entity_001_34Neck</param>
+                    <param id="1" name="Name">&quot;entity_001_34Neck&quot;</param>
+                </action>
+                <action id="666" name="Associate object type" sid="204631696341011" type="Test">
+                    <param id="0" name="Object">Test_entity_001_RTtest</param>
+                    <param id="1" name="Name">&quot;entity_001_RTtest&quot;</param>
+                </action>
+                <action id="666" name="Associate object type" sid="344169587212835" type="Test">
+                    <param id="0" name="Object">Test_entity_001_LStest</param>
+                    <param id="1" name="Name">&quot;entity_001_LStest&quot;</param>
+                </action>
+                <action id="666" name="Associate object type" sid="956125478142051" type="Test">
+                    <param id="0" name="Object">Test_entity_001_34t1test</param>
+                    <param id="1" name="Name">&quot;entity_001_34t1test&quot;</param>
+                </action>
+                <action id="666" name="Associate object type" sid="206634560820615" type="Test">
+                    <param id="0" name="Object">Test_entity_001_LFtest</param>
+                    <param id="1" name="Name">&quot;entity_001_LFtest&quot;</param>
+                </action>
+                <action id="666" name="Associate object type" sid="660847694440012" type="Test">
+                    <param id="0" name="Object">Test_entity_001_34Hood</param>
+                    <param id="1" name="Name">&quot;entity_001_34Hood&quot;</param>
+                </action>
+                <action id="666" name="Associate object type" sid="953531653793066" type="Test">
+                    <param id="0" name="Object">Test_entity_001_Ltoe</param>
+                    <param id="1" name="Name">&quot;entity_001_Ltoe&quot;</param>
+                </action>
+                <action id="666" name="Associate object type" sid="626085116081694" type="Test">
+                    <param id="0" name="Object">Test_entity_001_34hoodiestomach</param>
+                    <param id="1" name="Name">&quot;entity_001_34hoodiestomach&quot;</param>
+                </action>
+                <action id="666" name="Associate object type" sid="212324329480724" type="Test">
+                    <param id="0" name="Object">Test_entity_001_LFootSock</param>
+                    <param id="1" name="Name">&quot;entity_001_LFootSock&quot;</param>
+                </action>
+                <action id="666" name="Associate object type" sid="801683600865287" type="Test">
+                    <param id="0" name="Object">Test_entity_001_34hoodiechest</param>
+                    <param id="1" name="Name">&quot;entity_001_34hoodiechest&quot;</param>
+                </action>
+                <action id="666" name="Associate object type" sid="203581058260282" type="Test">
+                    <param id="0" name="Object">Test_entity_001_Head</param>
+                    <param id="1" name="Name">&quot;entity_001_Head&quot;</param>
+                </action>
+                <action id="666" name="Associate object type" sid="540309825516693" type="Test">
+                    <param id="0" name="Object">Test_entity_001_LToeSock</param>
+                    <param id="1" name="Name">&quot;entity_001_LToeSock&quot;</param>
+                </action>
+                <action id="666" name="Associate object type" sid="795272785351825" type="Test">
+                    <param id="0" name="Object">Test_entity_001_LSneakerfoot</param>
+                    <param id="1" name="Name">&quot;entity_001_LSneakerfoot&quot;</param>
+                </action>
+                <action id="666" name="Associate object type" sid="820270403073329" type="Test">
+                    <param id="0" name="Object">Test_entity_001_34RFtest</param>
+                    <param id="1" name="Name">&quot;entity_001_34RFtest&quot;</param>
+                </action>
+                <action id="666" name="Associate object type" sid="873949563477376" type="Test">
+                    <param id="0" name="Object">Test_entity_001_Rtoe_000</param>
+                    <param id="1" name="Name">&quot;entity_001_Rtoe_000&quot;</param>
+                </action>
+                <action id="666" name="Associate object type" sid="247612737501377" type="Test">
+                    <param id="0" name="Object">Test_entity_001_Lsneakertoe</param>
+                    <param id="1" name="Name">&quot;entity_001_Lsneakertoe&quot;</param>
+                </action>
+                <action id="666" name="Associate object type" sid="693346483064364" type="Test">
+                    <param id="0" name="Object">Test_entity_001_Ptest</param>
+                    <param id="1" name="Name">&quot;entity_001_Ptest&quot;</param>
+                </action>
+                <action id="666" name="Associate object type" sid="543851716076551" type="Test">
+                    <param id="0" name="Object">Test_entity_001_Rsock_000</param>
+                    <param id="1" name="Name">&quot;entity_001_Rsock_000&quot;</param>
+                </action>
+                <action id="666" name="Associate object type" sid="776777069548314" type="Test">
+                    <param id="0" name="Object">Test_entity_001_Hairtail</param>
+                    <param id="1" name="Name">&quot;entity_001_Hair Tail&quot;</param>
+                </action>
+                <action id="666" name="Associate object type" sid="698600682757133" type="Test">
+                    <param id="0" name="Object">Test_entity_001_Rsocktoe_001</param>
+                    <param id="1" name="Name">&quot;entity_001_Rsocktoe_001&quot;</param>
+                </action>
+                <action id="666" name="Associate object type" sid="821294035885634" type="Test">
+                    <param id="0" name="Object">Test_entity_001_Hairback</param>
+                    <param id="1" name="Name">&quot;entity_001_Hairback&quot;</param>
+                </action>
+                <action id="666" name="Associate object type" sid="991380225384271" type="Test">
+                    <param id="0" name="Object">Test_entity_001_Face1_000</param>
+                    <param id="1" name="Name">&quot;entity_001_Face1_000&quot;</param>
+                </action>
+                <action id="666" name="Associate object type" sid="845302380136950" type="Test">
+                    <param id="0" name="Object">Test_entity_001_Neck</param>
+                    <param id="1" name="Name">&quot;entity_001_Neck&quot;</param>
+                </action>
+                <action id="666" name="Associate object type" sid="308559308566052" type="Test">
+                    <param id="0" name="Object">Test_entity_001_FrontHair</param>
+                    <param id="1" name="Name">&quot;entity_001_Front Hair&quot;</param>
+                </action>
+                <action id="666" name="Associate object type" sid="355259503427014" type="Test">
+                    <param id="0" name="Object">Test_entity_001_T2test</param>
+                    <param id="1" name="Name">&quot;entity_001_T2test&quot;</param>
+                </action>
+                <action id="666" name="Associate object type" sid="113614225067492" type="Test">
+                    <param id="0" name="Object">Test_entity_001_RSneakerfoot_000</param>
+                    <param id="1" name="Name">&quot;entity_001_RSneakerfoot_000&quot;</param>
+                </action>
+                <action id="666" name="Associate object type" sid="344673313393083" type="Test">
+                    <param id="0" name="Object">Test_entity_001_T1test</param>
+                    <param id="1" name="Name">&quot;entity_001_T1test&quot;</param>
+                </action>
+                <action id="666" name="Associate object type" sid="628707653087038" type="Test">
+                    <param id="0" name="Object">Test_entity_001_Rsneakertoe_001</param>
+                    <param id="1" name="Name">&quot;entity_001_Rsneakertoe_001&quot;</param>
+                </action>
+                <action id="666" name="Associate object type" sid="618763628981993" type="Test">
+                    <param id="0" name="Object">Test_entity_001_Hood</param>
+                    <param id="1" name="Name">&quot;entity_001_Hood&quot;</param>
+                </action>
+                <action id="666" name="Associate object type" sid="451163188381770" type="Test">
+                    <param id="0" name="Object">Test_entity_001_LTtest</param>
+                    <param id="1" name="Name">&quot;entity_001_LTtest&quot;</param>
+                </action>
+                <action id="666" name="Associate object type" sid="553773515539017" type="Test">
+                    <param id="0" name="Object">Test_entity_001_Head1</param>
+                    <param id="1" name="Name">&quot;entity_001_Head1&quot;</param>
+                </action>
+                <action id="666" name="Associate object type" sid="727990531429748" type="Test">
+                    <param id="0" name="Object">Test_entity_001_Face1</param>
+                    <param id="1" name="Name">&quot;entity_001_Face1&quot;</param>
+                </action>
+                <action id="666" name="Associate object type" sid="246723256511338" type="Test">
+                    <param id="0" name="Object">Test_entity_001_HairFront</param>
+                    <param id="1" name="Name">&quot;entity_001_HairFront&quot;</param>
+                </action>
+                <action id="666" name="Associate object type" sid="378974465832258" type="Test">
+                    <param id="0" name="Object">Test_entity_001_RStest</param>
+                    <param id="1" name="Name">&quot;entity_001_RStest&quot;</param>
+                </action>
+                <action id="666" name="Associate object type" sid="811543034546461" type="Test">
+                    <param id="0" name="Object">Test_entity_001_RFtest</param>
+                    <param id="1" name="Name">&quot;entity_001_RFtest&quot;</param>
+                </action>
+                <action id="666" name="Associate object type" sid="959941082623713" type="Test">
+                    <param id="0" name="Object">Test_entity_001_Rtoe</param>
+                    <param id="1" name="Name">&quot;entity_001_Rtoe&quot;</param>
+                </action>
+                <action id="666" name="Associate object type" sid="909576733067450" type="Test">
+                    <param id="0" name="Object">Test_entity_001_RFootSock</param>
+                    <param id="1" name="Name">&quot;entity_001_RFootSock&quot;</param>
+                </action>
+                <action id="666" name="Associate object type" sid="184000553477468" type="Test">
+                    <param id="0" name="Object">Test_entity_001_Rsocktoe</param>
+                    <param id="1" name="Name">&quot;entity_001_Rsocktoe&quot;</param>
+                </action>
+                <action id="666" name="Associate object type" sid="790638403256779" type="Test">
+                    <param id="0" name="Object">Test_entity_001_Rsneakerfoot</param>
+                    <param id="1" name="Name">&quot;entity_001_Rsneakerfoot&quot;</param>
+                </action>
+                <action id="666" name="Associate object type" sid="433121034235178" type="Test">
+                    <param id="0" name="Object">Test_entity_001_Rsneakertoe</param>
+                    <param id="1" name="Name">&quot;entity_001_Rsneakertoe&quot;</param>
+                </action>
+                <action id="666" name="Associate object type" sid="318837353092195" type="Test">
+                    <param id="0" name="Object">Test_entity_001_Skirt1</param>
+                    <param id="1" name="Name">&quot;entity_001_Skirt1&quot;</param>
+                </action>
+                <action id="666" name="Associate object type" sid="916666837812128" type="Test">
+                    <param id="0" name="Object">Test_entity_001_SKBT1</param>
+                    <param id="1" name="Name">&quot;entity_001_SKBT1&quot;</param>
+                </action>
+                <action id="666" name="Associate object type" sid="291022573180908" type="Test">
+                    <param id="0" name="Object">Test_entity_001_SKBT2</param>
+                    <param id="1" name="Name">&quot;entity_001_SKBT2&quot;</param>
+                </action>
+                <action id="666" name="Associate object type" sid="822067595827449" type="Test">
+                    <param id="0" name="Object">Test_entity_001_SKBT3</param>
+                    <param id="1" name="Name">&quot;entity_001_SKBT3&quot;</param>
+                </action>
+                <action id="666" name="Associate object type" sid="531842809443573" type="Test">
+                    <param id="0" name="Object">Test_entity_001_SKBT4</param>
+                    <param id="1" name="Name">&quot;entity_001_SKBT4&quot;</param>
+                </action>
+                <action id="666" name="Associate object type" sid="864482031463170" type="Test">
+                    <param id="0" name="Object">Test_entity_001_SKTP1</param>
+                    <param id="1" name="Name">&quot;entity_001_SKTP1&quot;</param>
+                </action>
+                <action id="666" name="Associate object type" sid="488511467313848" type="Test">
+                    <param id="0" name="Object">Test_entity_001_SKTP2</param>
+                    <param id="1" name="Name">&quot;entity_001_SKTP2&quot;</param>
+                </action>
+                <action id="666" name="Associate object type" sid="634336020081114" type="Test">
+                    <param id="0" name="Object">Test_entity_001_SKTP3</param>
+                    <param id="1" name="Name">&quot;entity_001_SKTP3&quot;</param>
+                </action>
+                <action id="666" name="Associate object type" sid="391850927101413" type="Test">
+                    <param id="0" name="Object">Test_entity_001_HoodieT2</param>
+                    <param id="1" name="Name">&quot;entity_001_HoodieT2&quot;</param>
+                </action>
+                <action id="666" name="Associate object type" sid="154215450997377" type="Test">
+                    <param id="0" name="Object">Test_entity_001_HoodieT1</param>
+                    <param id="1" name="Name">&quot;entity_001_HoodieT1&quot;</param>
+                </action>
+                <action id="666" name="Associate object type" sid="319055043573663" type="Test">
+                    <param id="0" name="Object">Test_entity_001_R1</param>
+                    <param id="1" name="Name">&quot;entity_001_R1&quot;</param>
+                </action>
+                <action id="666" name="Associate object type" sid="272013678539114" type="Test">
+                    <param id="0" name="Object">Test_entity_001_RFAtest</param>
+                    <param id="1" name="Name">&quot;entity_001_RFAtest&quot;</param>
+                </action>
+                <action id="666" name="Associate object type" sid="141170835201939" type="Test">
+                    <param id="0" name="Object">Test_entity_001_RSHtest</param>
+                    <param id="1" name="Name">&quot;entity_001_RSHtest&quot;</param>
+                </action>
+                <action id="666" name="Associate object type" sid="589694641103004" type="Test">
+                    <param id="0" name="Object">Test_entity_001_RSHhoodie</param>
+                    <param id="1" name="Name">&quot;entity_001_RSHhoodie&quot;</param>
+                </action>
+                <action id="666" name="Associate object type" sid="857483146907409" type="Test">
+                    <param id="0" name="Object">Test_entity_001_RFAHoodie</param>
+                    <param id="1" name="Name">&quot;entity_001_RFAHoodie&quot;</param>
+                </action>
+            </actions>
+        </event-block>
+        <event-block sid="968512251771910">
+            <conditions>
+                <condition id="-1" name="Every tick" sid="723814271153895" type="System" />
+            </conditions>
+            <actions>
+                <action id="-4" name="Set position to another object" sid="394896653326666" type="Test">
+                    <param id="0" name="Object">PlayerBox</param>
+                    <param id="1" name="Image point (optional)">0</param>
+                </action>
+                <action id="-29" name="Move to object" sid="700610196712941" type="Test">
+                    <param id="0" name="Where">0</param>
+                    <param id="1" name="Object">PlayerBox</param>
+                </action>
+                <action id="-4" name="Set position to another object" sid="620502113517617" type="Camera">
+                    <param id="0" name="Object">PlayerBox</param>
+                    <param id="1" name="Image point (optional)">1</param>
+                </action>
+            </actions>
+        </event-block>
+        <event-block sid="439355245094075">
+            <conditions>
+                <condition id="-8" name="Compare two values" sid="944235494451553" type="System">
+                    <param id="0" name="First value">PlayerBox.Platform.VectorX</param>
+                    <param id="1" name="Comparison">2</param>
+                    <param id="2" name="Second value">0</param>
+                </condition>
+            </conditions>
+            <actions>
+                <action id="11" name="Set mirrored (on x axis)" sid="971488194031929" type="Test">
+                    <param id="0" name="Mirror X Axis">1</param>
+                </action>
+            </actions>
+        </event-block>
+        <event-block sid="873562150336162">
+            <conditions>
+                <condition id="-8" name="Compare two values" sid="924826980735135" type="System">
+                    <param id="0" name="First value">Test.ScaleRatio</param>
+                    <param id="1" name="Comparison">4</param>
+                    <param id="2" name="Second value">0.55</param>
+                </condition>
+            </conditions>
+            <actions>
+                <action id="2" name="Set object scale ratio" sid="710005892546995" type="Test">
+                    <param id="0" name="Scale Ratio">0.55</param>
+                    <param id="1" name="Flip X Axis">0</param>
+                    <param id="2" name="Flip Y Axis">0</param>
+                </action>
+            </actions>
+        </event-block>
+        <event-block sid="134896110105208">
+            <conditions>
+                <condition id="-8" name="Compare two values" sid="763755290522377" type="System">
+                    <param id="0" name="First value">PlayerBox.Platform.VectorX</param>
+                    <param id="1" name="Comparison">4</param>
+                    <param id="2" name="Second value">0</param>
+                </condition>
+            </conditions>
+            <actions>
+                <action id="11" name="Set mirrored (on x axis)" sid="474894352863074" type="Test">
+                    <param id="0" name="Mirror X Axis">0</param>
+                </action>
+            </actions>
+        </event-block>
+        <event-block sid="821223459139600">
+            <conditions>
+                <condition id="7" name="On sound triggered" sid="732583319994150" type="Test" />
+            </conditions>
+            <actions>
+                <action id="7" name="Play (by name)" sid="710702035801198" type="Audio">
+                    <param id="0" name="Folder">0</param>
+                    <param id="1" name="Audio file name">Test.triggeredSound</param>
+                    <param id="3" name="Loop">0</param>
+                    <param id="4" name="Volume">0</param>
+                    <param id="2" name="Tag (optional)">Test.triggeredSoundTag</param>
+                </action>
+            </actions>
+        </event-block>
+        <event-group description="" sid="645975136479634" title="Madison" />
+        <event-group description="" sid="907487441502880" title="Crouch">
+            <sub-events>
+                <event-block sid="338814165877321">
+                    <conditions>
+                        <condition id="2" name="Key is down" sid="211293428296224" type="Keyboard">
+                            <param id="0" name="Key">40 (Down arrow)</param>
+                        </condition>
+                        <condition behavior="Platform" id="2" name="Is on floor" sid="580331624192564" type="PlayerBox" />
+                        <condition id="-8" name="Compare two values" sid="593527402327874" type="System">
+                            <param id="0" name="First value">PlayerBox.Platform.VectorX</param>
+                            <param id="1" name="Comparison">2</param>
+                            <param id="2" name="Second value">30</param>
+                        </condition>
+                        <condition id="-8" name="Compare two values" sid="345914988426639" type="System">
+                            <param id="0" name="First value">PlayerBox.Platform.VectorX</param>
+                            <param id="1" name="Comparison">4</param>
+                            <param id="2" name="Second value">-30</param>
+                        </condition>
+                        <condition id="-7" name="Compare instance variable" sid="963527443474082" type="Test">
+                            <param id="0" name="Instance variable">Idle</param>
+                            <param id="1" name="Comparison">0</param>
+                            <param id="2" name="Value">0</param>
+                        </condition>
+                        <condition id="-7" name="Compare instance variable" sid="211881802137633" type="Test">
+                            <param id="0" name="Instance variable">Crawl</param>
+                            <param id="1" name="Comparison">0</param>
+                            <param id="2" name="Value">0</param>
+                        </condition>
+                        <condition behavior="Platform" id="4" inverted="1" name="Is falling" sid="709266856574848" type="PlayerBox" />
+                    </conditions>
+                    <actions>
+                        <action id="-10" name="Set value" sid="430026955025745" type="Test">
+                            <param id="0" name="Instance variable">Idle</param>
+                            <param id="1" name="Value">1</param>
+                        </action>
+                        <action id="-10" name="Set value" sid="480314849334031" type="Test">
+                            <param id="0" name="Instance variable">Crawl</param>
+                            <param id="1" name="Value">1</param>
+                        </action>
+                        <action id="0" name="Set animation" sid="497925887631026" type="Test">
+                            <param id="0" name="Animation">&quot;Crouch Start&quot;</param>
+                            <param id="1" name="Where to start playing this animation">0</param>
+                            <param id="2" name="Blend Duration">0</param>
+                        </action>
+                        <action id="1" name="Set playback speed ratio" sid="225602091947023" type="Test">
+                            <param id="0" name="Speed Ratio">1.5</param>
+                        </action>
+                        <action id="3" name="Set animation looping" sid="464037189519351" type="Test">
+                            <param id="0" name="Loop animation?">0</param>
+                        </action>
+                        <action behavior="Platform" id="1" name="Set max speed" sid="376793457806036" type="PlayerBox">
+                            <param id="0" name="Max Speed">0</param>
+                        </action>
+                    </actions>
+                </event-block>
+                <event-block sid="373675017645174">
+                    <conditions>
+                        <condition id="3" name="On key released" sid="213547880564764" type="Keyboard">
+                            <param id="0" name="Key">40 (Down arrow)</param>
+                        </condition>
+                        <condition id="-7" name="Compare instance variable" sid="383887717339728" type="Test">
+                            <param id="0" name="Instance variable">Block</param>
+                            <param id="1" name="Comparison">0</param>
+                            <param id="2" name="Value">0</param>
+                        </condition>
+                        <condition behavior="Platform" id="2" name="Is on floor" sid="435921659372550" type="PlayerBox" />
+                        <condition behavior="Platform" id="4" inverted="1" name="Is falling" sid="824588837091938" type="PlayerBox" />
+                    </conditions>
+                    <actions>
+                        <action id="-10" name="Set value" sid="130412069056920" type="Test">
+                            <param id="0" name="Instance variable">Idle</param>
+                            <param id="1" name="Value">0</param>
+                        </action>
+                        <action id="-10" name="Set value" sid="511016026526984" type="Test">
+                            <param id="0" name="Instance variable">Crawl</param>
+                            <param id="1" name="Value">0</param>
+                        </action>
+                        <action id="0" name="Set animation" sid="718250133600364" type="Test">
+                            <param id="0" name="Animation">&quot;Idle&quot;</param>
+                            <param id="1" name="Where to start playing this animation">3</param>
+                            <param id="2" name="Blend Duration">200</param>
+                        </action>
+                        <action id="3" name="Set animation looping" sid="478107493986854" type="Test">
+                            <param id="0" name="Loop animation?">0</param>
+                        </action>
+                        <action behavior="Platform" id="1" name="Set max speed" sid="316635640486212" type="PlayerBox">
+                            <param id="0" name="Max Speed">2000</param>
+                        </action>
+                    </actions>
+                </event-block>
+                <event-block sid="341067875197074">
+                    <conditions>
+                        <condition id="0" name="On animation finished" sid="979999112051848" type="Test">
+                            <param id="0" name="Animation">&quot;Crouch Start&quot;</param>
+                        </condition>
+                        <condition id="2" name="Key is down" sid="607467767457306" type="Keyboard">
+                            <param id="0" name="Key">40 (Down arrow)</param>
+                        </condition>
+                    </conditions>
+                    <actions>
+                        <action id="0" name="Set animation" sid="133820360269191" type="Test">
+                            <param id="0" name="Animation">&quot;Crouch Loop&quot;</param>
+                            <param id="1" name="Where to start playing this animation">2</param>
+                            <param id="2" name="Blend Duration">0</param>
+                        </action>
+                        <action id="1" name="Set playback speed ratio" sid="744614572834404" type="Test">
+                            <param id="0" name="Speed Ratio">1.0</param>
+                        </action>
+                        <action id="3" name="Set animation looping" sid="994985942952116" type="Test">
+                            <param id="0" name="Loop animation?">1</param>
+                        </action>
+                    </actions>
+                </event-block>
+                <event-block sid="707337477311382">
+                    <conditions>
+                        <condition id="0" name="On key pressed" sid="478417491935231" type="Keyboard">
+                            <param id="0" name="Key">39 (Right arrow)</param>
+                        </condition>
+                        <condition id="2" name="Key is down" sid="224279607456449" type="Keyboard">
+                            <param id="0" name="Key">40 (Down arrow)</param>
+                        </condition>
+                        <condition behavior="Platform" id="2" name="Is on floor" sid="116784551413807" type="PlayerBox" />
+                        <condition id="-7" name="Compare instance variable" sid="298737028795305" type="Test">
+                            <param id="0" name="Instance variable">Crawl</param>
+                            <param id="1" name="Comparison">0</param>
+                            <param id="2" name="Value">1</param>
+                        </condition>
+                        <condition behavior="Platform" id="4" inverted="1" name="Is falling" sid="842185345111325" type="PlayerBox" />
+                    </conditions>
+                    <actions>
+                        <action id="0" name="Set animation" sid="401077964307016" type="Test">
+                            <param id="0" name="Animation">&quot;To Crawl&quot;</param>
+                            <param id="1" name="Where to start playing this animation">0</param>
+                            <param id="2" name="Blend Duration">0</param>
+                        </action>
+                        <action id="3" name="Set animation looping" sid="101379533383788" type="Test">
+                            <param id="0" name="Loop animation?">0</param>
+                        </action>
+                        <action id="1" name="Set playback speed ratio" sid="956514697654284" type="Test">
+                            <param id="0" name="Speed Ratio">2</param>
+                        </action>
+                    </actions>
+                </event-block>
+                <event-block sid="552628246727676">
+                    <conditions>
+                        <condition id="0" name="On key pressed" sid="327369707036256" type="Keyboard">
+                            <param id="0" name="Key">37 (Left arrow)</param>
+                        </condition>
+                        <condition id="2" name="Key is down" sid="801645494493696" type="Keyboard">
+                            <param id="0" name="Key">40 (Down arrow)</param>
+                        </condition>
+                        <condition behavior="Platform" id="2" name="Is on floor" sid="205980560771185" type="PlayerBox" />
+                        <condition id="-7" name="Compare instance variable" sid="229180899063769" type="Test">
+                            <param id="0" name="Instance variable">Crawl</param>
+                            <param id="1" name="Comparison">0</param>
+                            <param id="2" name="Value">1</param>
+                        </condition>
+                        <condition behavior="Platform" id="4" inverted="1" name="Is falling" sid="326093766482026" type="PlayerBox" />
+                    </conditions>
+                    <actions>
+                        <action id="0" name="Set animation" sid="405603830782470" type="Test">
+                            <param id="0" name="Animation">&quot;To Crawl&quot;</param>
+                            <param id="1" name="Where to start playing this animation">0</param>
+                            <param id="2" name="Blend Duration">0</param>
+                        </action>
+                        <action id="3" name="Set animation looping" sid="618323218387813" type="Test">
+                            <param id="0" name="Loop animation?">0</param>
+                        </action>
+                        <action id="1" name="Set playback speed ratio" sid="229980847573136" type="Test">
+                            <param id="0" name="Speed Ratio">2</param>
+                        </action>
+                    </actions>
+                </event-block>
+                <event-block sid="771387486998494">
+                    <conditions>
+                        <condition id="0" name="On animation finished" sid="592662749897382" type="Test">
+                            <param id="0" name="Animation">&quot;To Crawl&quot;</param>
+                        </condition>
+                    </conditions>
+                    <actions>
+                        <action id="0" name="Set animation" sid="838922694840268" type="Test">
+                            <param id="0" name="Animation">&quot;Crawl&quot;</param>
+                            <param id="1" name="Where to start playing this animation">0</param>
+                            <param id="2" name="Blend Duration">0</param>
+                        </action>
+                        <action id="3" name="Set animation looping" sid="774122507498895" type="Test">
+                            <param id="0" name="Loop animation?">1</param>
+                        </action>
+                        <action id="1" name="Set playback speed ratio" sid="933737828587227" type="Test">
+                            <param id="0" name="Speed Ratio">1.0</param>
+                        </action>
+                        <action behavior="Platform" id="1" name="Set max speed" sid="563870942596218" type="PlayerBox">
+                            <param id="0" name="Max Speed">100</param>
+                        </action>
+                    </actions>
+                </event-block>
+                <event-block sid="870699116105045">
+                    <conditions>
+                        <condition id="3" name="On key released" sid="935648923672112" type="Keyboard">
+                            <param id="0" name="Key">39 (Right arrow)</param>
+                        </condition>
+                        <condition id="2" name="Key is down" sid="579160079554792" type="Keyboard">
+                            <param id="0" name="Key">40 (Down arrow)</param>
+                        </condition>
+                        <condition behavior="Platform" id="4" inverted="1" name="Is falling" sid="267654919130170" type="PlayerBox" />
+                        <condition behavior="Platform" id="2" name="Is on floor" sid="636847013223017" type="PlayerBox" />
+                    </conditions>
+                    <actions>
+                        <action id="0" name="Set animation" sid="837183348725682" type="Test">
+                            <param id="0" name="Animation">&quot;Crouch Loop&quot;</param>
+                            <param id="1" name="Where to start playing this animation">3</param>
+                            <param id="2" name="Blend Duration">300</param>
+                        </action>
+                        <action id="1" name="Set playback speed ratio" sid="913617032327688" type="Test">
+                            <param id="0" name="Speed Ratio">1.0</param>
+                        </action>
+                        <action id="3" name="Set animation looping" sid="384670176515413" type="Test">
+                            <param id="0" name="Loop animation?">1</param>
+                        </action>
+                    </actions>
+                </event-block>
+                <event-block sid="676939128529438">
+                    <conditions>
+                        <condition id="3" name="On key released" sid="697014582372821" type="Keyboard">
+                            <param id="0" name="Key">37 (Left arrow)</param>
+                        </condition>
+                        <condition id="2" name="Key is down" sid="233010577055863" type="Keyboard">
+                            <param id="0" name="Key">40 (Down arrow)</param>
+                        </condition>
+                        <condition behavior="Platform" id="4" inverted="1" name="Is falling" sid="273161980222580" type="PlayerBox" />
+                        <condition behavior="Platform" id="2" name="Is on floor" sid="411724415669654" type="PlayerBox" />
+                    </conditions>
+                    <actions>
+                        <action id="0" name="Set animation" sid="209432019874223" type="Test">
+                            <param id="0" name="Animation">&quot;Crouch Loop&quot;</param>
+                            <param id="1" name="Where to start playing this animation">3</param>
+                            <param id="2" name="Blend Duration">300</param>
+                        </action>
+                        <action id="1" name="Set playback speed ratio" sid="192137621997252" type="Test">
+                            <param id="0" name="Speed Ratio">1.0</param>
+                        </action>
+                        <action id="3" name="Set animation looping" sid="538430640305405" type="Test">
+                            <param id="0" name="Loop animation?">1</param>
+                        </action>
+                    </actions>
+                </event-block>
+            </sub-events>
+        </event-group>
+        <event-group description="" sid="580863523591803" title="Fighting">
+            <sub-events>
+                <event-block sid="353846041130289">
+                    <conditions>
+                        <condition id="0" name="On key pressed" sid="148110880978372" type="Keyboard">
+                            <param id="0" name="Key">90 (Z)</param>
+                        </condition>
+                        <condition behavior="Platform" id="2" name="Is on floor" sid="984555597412704" type="PlayerBox" />
+                        <condition id="-8" name="Compare two values" sid="321913873938736" type="System">
+                            <param id="0" name="First value">PlayerBox.Platform.VectorX</param>
+                            <param id="1" name="Comparison">0</param>
+                            <param id="2" name="Second value">0</param>
+                        </condition>
+                        <condition id="-7" name="Compare instance variable" sid="481369880631326" type="Test">
+                            <param id="0" name="Instance variable">Block</param>
+                            <param id="1" name="Comparison">0</param>
+                            <param id="2" name="Value">0</param>
+                        </condition>
+                        <condition behavior="Platform" id="4" inverted="1" name="Is falling" sid="315696235000039" type="PlayerBox" />
+                        <condition behavior="Platform" id="3" inverted="1" name="Is jumping" sid="916900637888660" type="PlayerBox" />
+                    </conditions>
+                    <actions>
+                        <action id="0" name="Set animation" sid="207683219238388" type="Test">
+                            <param id="0" name="Animation">&quot;Fighting Idle 2&quot;</param>
+                            <param id="1" name="Where to start playing this animation">4</param>
+                            <param id="2" name="Blend Duration">200</param>
+                        </action>
+                        <action id="3" name="Set animation looping" sid="823322828204011" type="Test">
+                            <param id="0" name="Loop animation?">1</param>
+                        </action>
+                        <action id="1" name="Set playback speed ratio" sid="268247290249162" type="Test">
+                            <param id="0" name="Speed Ratio">0.8</param>
+                        </action>
+                        <action id="-10" name="Set value" sid="463291062977765" type="Test">
+                            <param id="0" name="Instance variable">Idle</param>
+                            <param id="1" name="Value">1</param>
+                        </action>
+                        <action id="-10" name="Set value" sid="377824139526310" type="Test">
+                            <param id="0" name="Instance variable">Fight</param>
+                            <param id="1" name="Value">1</param>
+                        </action>
+                        <action behavior="Platform" id="1" name="Set max speed" sid="463486284527611" type="PlayerBox">
+                            <param id="0" name="Max Speed">100</param>
+                        </action>
+                    </actions>
+                </event-block>
+                <event-block sid="461258379562889">
+                    <conditions>
+                        <condition id="0" name="On key pressed" sid="191291577368661" type="Keyboard">
+                            <param id="0" name="Key">40 (Down arrow)</param>
+                        </condition>
+                        <condition id="2" name="Key is down" sid="747109051332727" type="Keyboard">
+                            <param id="0" name="Key">90 (Z)</param>
+                        </condition>
+                        <condition id="-7" name="Compare instance variable" sid="435561562697924" type="Test">
+                            <param id="0" name="Instance variable">Fight</param>
+                            <param id="1" name="Comparison">0</param>
+                            <param id="2" name="Value">1</param>
+                        </condition>
+                        <condition behavior="Platform" id="2" name="Is on floor" sid="679796107253317" type="PlayerBox" />
+                        <condition behavior="Platform" id="4" inverted="1" name="Is falling" sid="915960111883923" type="PlayerBox" />
+                        <condition behavior="Platform" id="3" inverted="1" name="Is jumping" sid="622854312090709" type="PlayerBox" />
+                    </conditions>
+                    <actions>
+                        <action id="0" name="Set animation" sid="125706008735910" type="Test">
+                            <param id="0" name="Animation">&quot;To Block&quot;</param>
+                            <param id="1" name="Where to start playing this animation">0</param>
+                            <param id="2" name="Blend Duration">0</param>
+                        </action>
+                        <action id="1" name="Set playback speed ratio" sid="360336140685742" type="Test">
+                            <param id="0" name="Speed Ratio">0.8</param>
+                        </action>
+                        <action id="3" name="Set animation looping" sid="484760961961764" type="Test">
+                            <param id="0" name="Loop animation?">0</param>
+                        </action>
+                        <action behavior="Platform" id="1" name="Set max speed" sid="397390493494757" type="PlayerBox">
+                            <param id="0" name="Max Speed">0</param>
+                        </action>
+                        <action id="-10" name="Set value" sid="475727867281534" type="Test">
+                            <param id="0" name="Instance variable">Block</param>
+                            <param id="1" name="Value">1</param>
+                        </action>
+                    </actions>
+                </event-block>
+                <event-block sid="505409154223227">
+                    <conditions>
+                        <condition id="0" name="On animation finished" sid="614057249629006" type="Test">
+                            <param id="0" name="Animation">&quot;To Block&quot;</param>
+                        </condition>
+                        <condition id="2" name="Key is down" sid="883932507231104" type="Keyboard">
+                            <param id="0" name="Key">90 (Z)</param>
+                        </condition>
+                        <condition id="-7" name="Compare instance variable" sid="532672267842819" type="Test">
+                            <param id="0" name="Instance variable">Block</param>
+                            <param id="1" name="Comparison">0</param>
+                            <param id="2" name="Value">1</param>
+                        </condition>
+                        <condition behavior="Platform" id="4" inverted="1" name="Is falling" sid="488757448661912" type="PlayerBox" />
+                        <condition behavior="Platform" id="3" inverted="1" name="Is jumping" sid="337739055849458" type="PlayerBox" />
+                    </conditions>
+                    <actions>
+                        <action id="0" name="Set animation" sid="312022189032360" type="Test">
+                            <param id="0" name="Animation">&quot;Blocking&quot;</param>
+                            <param id="1" name="Where to start playing this animation">2</param>
+                            <param id="2" name="Blend Duration">0</param>
+                        </action>
+                        <action id="1" name="Set playback speed ratio" sid="669404113801469" type="Test">
+                            <param id="0" name="Speed Ratio">0.3</param>
+                        </action>
+                        <action id="3" name="Set animation looping" sid="672953673822289" type="Test">
+                            <param id="0" name="Loop animation?">1</param>
+                        </action>
+                    </actions>
+                </event-block>
+                <event-block sid="262100343101598">
+                    <conditions>
+                        <condition id="3" name="On key released" sid="921204447656270" type="Keyboard">
+                            <param id="0" name="Key">40 (Down arrow)</param>
+                        </condition>
+                        <condition id="2" name="Key is down" sid="115455472281218" type="Keyboard">
+                            <param id="0" name="Key">90 (Z)</param>
+                        </condition>
+                        <condition behavior="Platform" id="2" name="Is on floor" sid="911490836659058" type="PlayerBox" />
+                        <condition behavior="Platform" id="4" inverted="1" name="Is falling" sid="929071239344169" type="PlayerBox" />
+                        <condition behavior="Platform" id="3" inverted="1" name="Is jumping" sid="562310943842836" type="PlayerBox" />
+                    </conditions>
+                    <actions>
+                        <action id="-10" name="Set value" sid="492514868849303" type="Test">
+                            <param id="0" name="Instance variable">Block</param>
+                            <param id="1" name="Value">0</param>
+                        </action>
+                        <action id="0" name="Set animation" sid="880163932363037" type="Test">
+                            <param id="0" name="Animation">&quot;Out Block&quot;</param>
+                            <param id="1" name="Where to start playing this animation">0</param>
+                            <param id="2" name="Blend Duration">0</param>
+                        </action>
+                        <action id="1" name="Set playback speed ratio" sid="951128117429397" type="Test">
+                            <param id="0" name="Speed Ratio">0.8</param>
+                        </action>
+                        <action id="3" name="Set animation looping" sid="797029869683226" type="Test">
+                            <param id="0" name="Loop animation?">0</param>
+                        </action>
+                        <action behavior="Platform" id="1" name="Set max speed" sid="685176351814579" type="PlayerBox">
+                            <param id="0" name="Max Speed">100</param>
+                        </action>
+                    </actions>
+                </event-block>
+                <event-block sid="420714674633870">
+                    <conditions>
+                        <condition id="0" name="On animation finished" sid="535012361780309" type="Test">
+                            <param id="0" name="Animation">&quot;Out Block&quot;</param>
+                        </condition>
+                    </conditions>
+                    <actions>
+                        <action id="0" name="Set animation" sid="625079957522024" type="Test">
+                            <param id="0" name="Animation">&quot;Fighting Idle 2&quot;</param>
+                            <param id="1" name="Where to start playing this animation">2</param>
+                            <param id="2" name="Blend Duration">0</param>
+                        </action>
+                        <action id="3" name="Set animation looping" sid="152513567186298" type="Test">
+                            <param id="0" name="Loop animation?">1</param>
+                        </action>
+                    </actions>
+                </event-block>
+                <event-block sid="252342353368256">
+                    <conditions>
+                        <condition id="2" name="Key is down" sid="731816027352467" type="Keyboard">
+                            <param id="0" name="Key">39 (Right arrow)</param>
+                        </condition>
+                        <condition id="2" name="Key is down" sid="322458939670075" type="Keyboard">
+                            <param id="0" name="Key">90 (Z)</param>
+                        </condition>
+                        <condition behavior="Platform" id="2" name="Is on floor" sid="188773791979853" type="PlayerBox" />
+                        <condition id="-8" name="Compare two values" sid="377103877831509" type="System">
+                            <param id="0" name="First value">PlayerBox.Platform.VectorX</param>
+                            <param id="1" name="Comparison">4</param>
+                            <param id="2" name="Second value">0</param>
+                        </condition>
+                        <condition id="-7" name="Compare instance variable" sid="904335909683837" type="Test">
+                            <param id="0" name="Instance variable">Fight</param>
+                            <param id="1" name="Comparison">0</param>
+                            <param id="2" name="Value">1</param>
+                        </condition>
+                        <condition behavior="Platform" id="4" inverted="1" name="Is falling" sid="439709314229464" type="PlayerBox" />
+                        <condition behavior="Platform" id="3" inverted="1" name="Is jumping" sid="458653537173857" type="PlayerBox" />
+                    </conditions>
+                    <actions>
+                        <action id="0" name="Set animation" sid="696337909255982" type="Test">
+                            <param id="0" name="Animation">&quot;Fighting Idle 2_Walk&quot;</param>
+                            <param id="1" name="Where to start playing this animation">4</param>
+                            <param id="2" name="Blend Duration">100</param>
+                        </action>
+                        <action id="1" name="Set playback speed ratio" sid="414064489501649" type="Test">
+                            <param id="0" name="Speed Ratio">0.5</param>
+                        </action>
+                    </actions>
+                </event-block>
+                <event-block sid="360494701003256">
+                    <conditions>
+                        <condition id="3" name="On key released" sid="806397373162773" type="Keyboard">
+                            <param id="0" name="Key">39 (Right arrow)</param>
+                        </condition>
+                        <condition id="2" name="Key is down" sid="652204206709947" type="Keyboard">
+                            <param id="0" name="Key">90 (Z)</param>
+                        </condition>
+                        <condition behavior="Platform" id="4" inverted="1" name="Is falling" sid="763120296992481" type="PlayerBox" />
+                        <condition behavior="Platform" id="3" inverted="1" name="Is jumping" sid="966639193290995" type="PlayerBox" />
+                    </conditions>
+                    <actions>
+                        <action id="0" name="Set animation" sid="994687735228272" type="Test">
+                            <param id="0" name="Animation">&quot;Fighting Idle 2&quot;</param>
+                            <param id="1" name="Where to start playing this animation">4</param>
+                            <param id="2" name="Blend Duration">100</param>
+                        </action>
+                        <action id="1" name="Set playback speed ratio" sid="805127352880591" type="Test">
+                            <param id="0" name="Speed Ratio">0.8</param>
+                        </action>
+                        <action id="3" name="Set animation looping" sid="282174252188996" type="Test">
+                            <param id="0" name="Loop animation?">1</param>
+                        </action>
+                    </actions>
+                </event-block>
+                <event-block sid="260139694306807">
+                    <conditions>
+                        <condition id="2" name="Key is down" sid="195868867022892" type="Keyboard">
+                            <param id="0" name="Key">37 (Left arrow)</param>
+                        </condition>
+                        <condition id="2" name="Key is down" sid="834074571057770" type="Keyboard">
+                            <param id="0" name="Key">90 (Z)</param>
+                        </condition>
+                        <condition behavior="Platform" id="2" name="Is on floor" sid="490631412306303" type="PlayerBox" />
+                        <condition id="-8" name="Compare two values" sid="250671867833043" type="System">
+                            <param id="0" name="First value">PlayerBox.Platform.VectorX</param>
+                            <param id="1" name="Comparison">2</param>
+                            <param id="2" name="Second value">0</param>
+                        </condition>
+                        <condition id="-7" name="Compare instance variable" sid="483728085122262" type="Test">
+                            <param id="0" name="Instance variable">Fight</param>
+                            <param id="1" name="Comparison">0</param>
+                            <param id="2" name="Value">1</param>
+                        </condition>
+                        <condition behavior="Platform" id="4" inverted="1" name="Is falling" sid="468522779594487" type="PlayerBox" />
+                        <condition behavior="Platform" id="3" inverted="1" name="Is jumping" sid="742311294385177" type="PlayerBox" />
+                    </conditions>
+                    <actions>
+                        <action id="0" name="Set animation" sid="725396877345652" type="Test">
+                            <param id="0" name="Animation">&quot;Fighting Idle 2_Walk&quot;</param>
+                            <param id="1" name="Where to start playing this animation">4</param>
+                            <param id="2" name="Blend Duration">100</param>
+                        </action>
+                        <action id="1" name="Set playback speed ratio" sid="191494374217066" type="Test">
+                            <param id="0" name="Speed Ratio">0.5</param>
+                        </action>
+                    </actions>
+                </event-block>
+                <event-block sid="897980353547224">
+                    <conditions>
+                        <condition id="3" name="On key released" sid="149966876960731" type="Keyboard">
+                            <param id="0" name="Key">37 (Left arrow)</param>
+                        </condition>
+                        <condition id="2" name="Key is down" sid="893775817237724" type="Keyboard">
+                            <param id="0" name="Key">90 (Z)</param>
+                        </condition>
+                        <condition behavior="Platform" id="4" inverted="1" name="Is falling" sid="577490175301979" type="PlayerBox" />
+                        <condition behavior="Platform" id="3" inverted="1" name="Is jumping" sid="323984260407207" type="PlayerBox" />
+                    </conditions>
+                    <actions>
+                        <action id="0" name="Set animation" sid="774176735572987" type="Test">
+                            <param id="0" name="Animation">&quot;Fighting Idle 2&quot;</param>
+                            <param id="1" name="Where to start playing this animation">4</param>
+                            <param id="2" name="Blend Duration">100</param>
+                        </action>
+                        <action id="1" name="Set playback speed ratio" sid="662690410408514" type="Test">
+                            <param id="0" name="Speed Ratio">0.8</param>
+                        </action>
+                        <action id="3" name="Set animation looping" sid="621825285445169" type="Test">
+                            <param id="0" name="Loop animation?">1</param>
+                        </action>
+                    </actions>
+                </event-block>
+                <event-block sid="629641155533065">
+                    <conditions>
+                        <condition id="0" name="On key pressed" sid="692230514646152" type="Keyboard">
+                            <param id="0" name="Key">86 (V)</param>
+                        </condition>
+                        <condition id="2" name="Key is down" sid="811342374869971" type="Keyboard">
+                            <param id="0" name="Key">90 (Z)</param>
+                        </condition>
+                        <condition id="-8" inverted="1" name="Is boolean instance variable set" sid="927289709777246" type="Test">
+                            <param id="0" name="Instance variable">AllStop</param>
+                        </condition>
+                        <condition id="-7" inverted="1" name="Compare instance variable" sid="822103823140671" type="Test">
+                            <param id="0" name="Instance variable">Dash</param>
+                            <param id="1" name="Comparison">0</param>
+                            <param id="2" name="Value">2</param>
+                        </condition>
+                        <condition behavior="Platform" id="4" inverted="1" name="Is falling" sid="723300136925129" type="PlayerBox" />
+                        <condition behavior="Platform" id="3" inverted="1" name="Is jumping" sid="442550212409889" type="PlayerBox" />
+                    </conditions>
+                    <actions>
+                        <action behavior="Platform" id="1" name="Set max speed" sid="537886844353839" type="PlayerBox">
+                            <param id="0" name="Max Speed">0</param>
+                        </action>
+                        <action id="-13" name="Set boolean" sid="777825419196000" type="Test">
+                            <param id="0" name="Instance variable">AllStop</param>
+                            <param id="1" name="Value">1</param>
+                        </action>
+                        <action id="0" name="Set animation" sid="492498630639141" type="Test">
+                            <param id="0" name="Animation">&quot;Punch 3&quot;</param>
+                            <param id="1" name="Where to start playing this animation">3</param>
+                            <param id="2" name="Blend Duration">100</param>
+                        </action>
+                        <action id="1" name="Set playback speed ratio" sid="152812806582854" type="Test">
+                            <param id="0" name="Speed Ratio">1.2</param>
+                        </action>
+                        <action id="3" name="Set animation looping" sid="946225256471733" type="Test">
+                            <param id="0" name="Loop animation?">0</param>
+                        </action>
+                        <action id="-16" name="Wait" sid="238275438431982" type="System">
+                            <param id="0" name="Seconds">0.8</param>
+                        </action>
+                        <action id="-13" name="Set boolean" sid="878512006034952" type="Test">
+                            <param id="0" name="Instance variable">AllStop</param>
+                            <param id="1" name="Value">0</param>
+                        </action>
+                        <action behavior="Platform" id="1" name="Set max speed" sid="433295080955120" type="PlayerBox">
+                            <param id="0" name="Max Speed">100</param>
+                        </action>
+                    </actions>
+                </event-block>
+                <event-block sid="320424916672429">
+                    <conditions>
+                        <condition id="0" name="On animation finished" sid="491581261350086" type="Test">
+                            <param id="0" name="Animation">&quot;Punch 3&quot;</param>
+                        </condition>
+                        <condition behavior="Platform" id="4" inverted="1" name="Is falling" sid="532663361388306" type="PlayerBox" />
+                        <condition behavior="Platform" id="3" inverted="1" name="Is jumping" sid="961811753656941" type="PlayerBox" />
+                    </conditions>
+                    <actions>
+                        <action id="0" name="Set animation" sid="210188225953274" type="Test">
+                            <param id="0" name="Animation">&quot;Fighting Idle 2&quot;</param>
+                            <param id="1" name="Where to start playing this animation">2</param>
+                            <param id="2" name="Blend Duration">0</param>
+                        </action>
+                        <action id="3" name="Set animation looping" sid="627871670639401" type="Test">
+                            <param id="0" name="Loop animation?">1</param>
+                        </action>
+                        <action id="1" name="Set playback speed ratio" sid="962190517829773" type="Test">
+                            <param id="0" name="Speed Ratio">0.8</param>
+                        </action>
+                    </actions>
+                </event-block>
+                <event-block sid="474540444892268">
+                    <conditions>
+                        <condition id="0" name="On key pressed" sid="500174699825812" type="Keyboard">
+                            <param id="0" name="Key">88 (X)</param>
+                        </condition>
+                        <condition id="2" name="Key is down" sid="342089875312931" type="Keyboard">
+                            <param id="0" name="Key">90 (Z)</param>
+                        </condition>
+                        <condition id="-8" inverted="1" name="Is boolean instance variable set" sid="201818613149649" type="Test">
+                            <param id="0" name="Instance variable">AllStop</param>
+                        </condition>
+                        <condition id="-7" inverted="1" name="Compare instance variable" sid="384285120110640" type="Test">
+                            <param id="0" name="Instance variable">Dash</param>
+                            <param id="1" name="Comparison">0</param>
+                            <param id="2" name="Value">2</param>
+                        </condition>
+                        <condition behavior="Platform" id="4" inverted="1" name="Is falling" sid="586602052838561" type="PlayerBox" />
+                        <condition behavior="Platform" id="3" inverted="1" name="Is jumping" sid="749129265281079" type="PlayerBox" />
+                    </conditions>
+                    <actions>
+                        <action behavior="Platform" id="1" name="Set max speed" sid="823104415440634" type="PlayerBox">
+                            <param id="0" name="Max Speed">0</param>
+                        </action>
+                        <action id="-13" name="Set boolean" sid="617376137148703" type="Test">
+                            <param id="0" name="Instance variable">AllStop</param>
+                            <param id="1" name="Value">1</param>
+                        </action>
+                        <action id="0" name="Set animation" sid="210828925061561" type="Test">
+                            <param id="0" name="Animation">&quot;Punch 1&quot;</param>
+                            <param id="1" name="Where to start playing this animation">0</param>
+                            <param id="2" name="Blend Duration">0</param>
+                        </action>
+                        <action id="1" name="Set playback speed ratio" sid="647385402461677" type="Test">
+                            <param id="0" name="Speed Ratio">2.5</param>
+                        </action>
+                        <action id="3" name="Set animation looping" sid="732740498347982" type="Test">
+                            <param id="0" name="Loop animation?">1</param>
+                        </action>
+                        <action id="-16" name="Wait" sid="973254319131425" type="System">
+                            <param id="0" name="Seconds">0.3</param>
+                        </action>
+                        <action id="-13" name="Set boolean" sid="698611566288215" type="Test">
+                            <param id="0" name="Instance variable">AllStop</param>
+                            <param id="1" name="Value">0</param>
+                        </action>
+                        <action behavior="Platform" id="1" name="Set max speed" sid="601278166281831" type="PlayerBox">
+                            <param id="0" name="Max Speed">100</param>
+                        </action>
+                    </actions>
+                </event-block>
+                <event-block sid="293282459552375">
+                    <conditions>
+                        <condition id="0" name="On animation finished" sid="477282955164035" type="Test">
+                            <param id="0" name="Animation">&quot;Punch 1&quot;</param>
+                        </condition>
+                        <condition behavior="Platform" id="4" inverted="1" name="Is falling" sid="531245052392087" type="PlayerBox" />
+                        <condition behavior="Platform" id="3" inverted="1" name="Is jumping" sid="212916327725024" type="PlayerBox" />
+                    </conditions>
+                    <actions>
+                        <action id="0" name="Set animation" sid="907015571861826" type="Test">
+                            <param id="0" name="Animation">&quot;Fighting Idle 2&quot;</param>
+                            <param id="1" name="Where to start playing this animation">2</param>
+                            <param id="2" name="Blend Duration">0</param>
+                        </action>
+                        <action id="3" name="Set animation looping" sid="388954870299222" type="Test">
+                            <param id="0" name="Loop animation?">1</param>
+                        </action>
+                        <action id="1" name="Set playback speed ratio" sid="825637067423397" type="Test">
+                            <param id="0" name="Speed Ratio">0.8</param>
+                        </action>
+                    </actions>
+                </event-block>
+                <event-block sid="105842266395281">
+                    <conditions>
+                        <condition id="0" name="On key pressed" sid="731790004197233" type="Keyboard">
+                            <param id="0" name="Key">67 (C)</param>
+                        </condition>
+                        <condition id="2" name="Key is down" sid="712232400687945" type="Keyboard">
+                            <param id="0" name="Key">90 (Z)</param>
+                        </condition>
+                        <condition id="-8" inverted="1" name="Is boolean instance variable set" sid="457906156276640" type="Test">
+                            <param id="0" name="Instance variable">AllStop</param>
+                        </condition>
+                        <condition id="-7" inverted="1" name="Compare instance variable" sid="823245193907418" type="Test">
+                            <param id="0" name="Instance variable">Dash</param>
+                            <param id="1" name="Comparison">0</param>
+                            <param id="2" name="Value">2</param>
+                        </condition>
+                        <condition behavior="Platform" id="4" inverted="1" name="Is falling" sid="428919897244645" type="PlayerBox" />
+                        <condition behavior="Platform" id="3" inverted="1" name="Is jumping" sid="341186534252477" type="PlayerBox" />
+                    </conditions>
+                    <actions>
+                        <action behavior="Platform" id="1" name="Set max speed" sid="408482122318822" type="PlayerBox">
+                            <param id="0" name="Max Speed">0</param>
+                        </action>
+                        <action id="-13" name="Set boolean" sid="885005747032028" type="Test">
+                            <param id="0" name="Instance variable">AllStop</param>
+                            <param id="1" name="Value">1</param>
+                        </action>
+                        <action id="0" name="Set animation" sid="405451637387115" type="Test">
+                            <param id="0" name="Animation">&quot;Punch 2&quot;</param>
+                            <param id="1" name="Where to start playing this animation">0</param>
+                            <param id="2" name="Blend Duration">0</param>
+                        </action>
+                        <action id="1" name="Set playback speed ratio" sid="157389614852391" type="Test">
+                            <param id="0" name="Speed Ratio">2.5</param>
+                        </action>
+                        <action id="3" name="Set animation looping" sid="168381503926576" type="Test">
+                            <param id="0" name="Loop animation?">1</param>
+                        </action>
+                        <action id="-16" name="Wait" sid="402056709038180" type="System">
+                            <param id="0" name="Seconds">0.3</param>
+                        </action>
+                        <action id="-13" name="Set boolean" sid="282362454621864" type="Test">
+                            <param id="0" name="Instance variable">AllStop</param>
+                            <param id="1" name="Value">0</param>
+                        </action>
+                        <action behavior="Platform" id="1" name="Set max speed" sid="616145357080136" type="PlayerBox">
+                            <param id="0" name="Max Speed">100</param>
+                        </action>
+                    </actions>
+                </event-block>
+                <event-block sid="702400716165034">
+                    <conditions>
+                        <condition id="0" name="On animation finished" sid="689930976139370" type="Test">
+                            <param id="0" name="Animation">&quot;Punch 2&quot;</param>
+                        </condition>
+                        <condition behavior="Platform" id="4" inverted="1" name="Is falling" sid="478884186947989" type="PlayerBox" />
+                        <condition behavior="Platform" id="3" inverted="1" name="Is jumping" sid="235351995911375" type="PlayerBox" />
+                    </conditions>
+                    <actions>
+                        <action id="0" name="Set animation" sid="132362941385305" type="Test">
+                            <param id="0" name="Animation">&quot;Fighting Idle 2&quot;</param>
+                            <param id="1" name="Where to start playing this animation">2</param>
+                            <param id="2" name="Blend Duration">0</param>
+                        </action>
+                        <action id="3" name="Set animation looping" sid="555518998330590" type="Test">
+                            <param id="0" name="Loop animation?">1</param>
+                        </action>
+                        <action id="1" name="Set playback speed ratio" sid="108130251957586" type="Test">
+                            <param id="0" name="Speed Ratio">0.8</param>
+                        </action>
+                    </actions>
+                </event-block>
+                <event-block sid="672768804172729">
+                    <conditions>
+                        <condition id="3" name="On key released" sid="597205271059638" type="Keyboard">
+                            <param id="0" name="Key">90 (Z)</param>
+                        </condition>
+                        <condition behavior="Platform" id="4" inverted="1" name="Is falling" sid="266893538469114" type="PlayerBox" />
+                        <condition behavior="Platform" id="3" inverted="1" name="Is jumping" sid="490613038975344" type="PlayerBox" />
+                    </conditions>
+                    <actions>
+                        <action id="-10" name="Set value" sid="486886157659405" type="Test">
+                            <param id="0" name="Instance variable">Idle</param>
+                            <param id="1" name="Value">0</param>
+                        </action>
+                        <action id="-10" name="Set value" sid="151957646930929" type="Test">
+                            <param id="0" name="Instance variable">Fight</param>
+                            <param id="1" name="Value">0</param>
+                        </action>
+                        <action behavior="Platform" id="1" name="Set max speed" sid="227071984227877" type="PlayerBox">
+                            <param id="0" name="Max Speed">2000</param>
+                        </action>
+                    </actions>
+                </event-block>
+                <event-block sid="673040358868619">
+                    <conditions>
+                        <condition id="2" name="Key is down" sid="926895036333823" type="Keyboard">
+                            <param id="0" name="Key">65 (A)</param>
+                        </condition>
+                        <condition id="2" name="Key is down" sid="927281298081936" type="Keyboard">
+                            <param id="0" name="Key">90 (Z)</param>
+                        </condition>
+                        <condition id="-7" name="Compare instance variable" sid="634815853301040" type="Test">
+                            <param id="0" name="Instance variable">Combo1</param>
+                            <param id="1" name="Comparison">0</param>
+                            <param id="2" name="Value">0</param>
+                        </condition>
+                        <condition behavior="Platform" id="4" inverted="1" name="Is falling" sid="473356591598343" type="PlayerBox" />
+                        <condition behavior="Platform" id="3" inverted="1" name="Is jumping" sid="166135369800554" type="PlayerBox" />
+                    </conditions>
+                    <actions>
+                        <action id="0" name="Set animation" sid="768247684723949" type="Test">
+                            <param id="0" name="Animation">&quot;Punch 1&quot;</param>
+                            <param id="1" name="Where to start playing this animation">0</param>
+                            <param id="2" name="Blend Duration">0</param>
+                        </action>
+                        <action id="1" name="Set playback speed ratio" sid="363720659918724" type="Test">
+                            <param id="0" name="Speed Ratio">1.2</param>
+                        </action>
+                        <action id="3" name="Set animation looping" sid="138481092833603" type="Test">
+                            <param id="0" name="Loop animation?">1</param>
+                        </action>
+                        <action id="-11" name="Add to" sid="675828100753778" type="Test">
+                            <param id="0" name="Instance variable">Combo1</param>
+                            <param id="1" name="Value">1</param>
+                        </action>
+                        <action id="-16" name="Wait" sid="787749701236561" type="System">
+                            <param id="0" name="Seconds">0.5</param>
+                        </action>
+                        <action id="-10" name="Set value" sid="679888010277810" type="Test">
+                            <param id="0" name="Instance variable">Combo1</param>
+                            <param id="1" name="Value">0</param>
+                        </action>
+                    </actions>
+                </event-block>
+                <event-block sid="861074192484545">
+                    <conditions>
+                        <condition id="0" name="On key pressed" sid="287679592817281" type="Keyboard">
+                            <param id="0" name="Key">65 (A)</param>
+                        </condition>
+                        <condition id="2" name="Key is down" sid="937675155667697" type="Keyboard">
+                            <param id="0" name="Key">90 (Z)</param>
+                        </condition>
+                        <condition id="-7" name="Compare instance variable" sid="327091769494744" type="Test">
+                            <param id="0" name="Instance variable">Combo1</param>
+                            <param id="1" name="Comparison">0</param>
+                            <param id="2" name="Value">1</param>
+                        </condition>
+                        <condition behavior="Platform" id="4" inverted="1" name="Is falling" sid="490358494538137" type="PlayerBox" />
+                        <condition behavior="Platform" id="3" inverted="1" name="Is jumping" sid="456349520843685" type="PlayerBox" />
+                    </conditions>
+                    <actions>
+                        <action id="0" name="Set animation" sid="525109980669169" type="Test">
+                            <param id="0" name="Animation">&quot;Punch 2&quot;</param>
+                            <param id="1" name="Where to start playing this animation">0</param>
+                            <param id="2" name="Blend Duration">0</param>
+                        </action>
+                        <action id="1" name="Set playback speed ratio" sid="806301880116502" type="Test">
+                            <param id="0" name="Speed Ratio">1.2</param>
+                        </action>
+                        <action id="3" name="Set animation looping" sid="855575136751071" type="Test">
+                            <param id="0" name="Loop animation?">1</param>
+                        </action>
+                        <action id="-11" name="Add to" sid="669274877133711" type="Test">
+                            <param id="0" name="Instance variable">Combo1</param>
+                            <param id="1" name="Value">1</param>
+                        </action>
+                        <action id="-16" name="Wait" sid="918055425318628" type="System">
+                            <param id="0" name="Seconds">0.2</param>
+                        </action>
+                        <action id="-10" name="Set value" sid="413401228484774" type="Test">
+                            <param id="0" name="Instance variable">Combo1</param>
+                            <param id="1" name="Value">0</param>
+                        </action>
+                    </actions>
+                </event-block>
+            </sub-events>
+        </event-group>
+        <event-group description="" sid="961812771347739" title="Madison Movement">
+            <sub-events>
+                <event-group description="" sid="348625353971185" title="Walking" />
+                <event-block sid="310328210447247">
+                    <conditions>
+                        <condition id="-7" name="Compare instance variable" sid="821772392109632" type="Test">
+                            <param id="0" name="Instance variable">Crawl</param>
+                            <param id="1" name="Comparison">0</param>
+                            <param id="2" name="Value">0</param>
+                        </condition>
+                        <condition id="-8" name="Compare two values" sid="540274532482114" type="System">
+                            <param id="0" name="First value">PlayerBox.Platform.VectorX</param>
+                            <param id="1" name="Comparison">4</param>
+                            <param id="2" name="Second value">1</param>
+                        </condition>
+                        <condition id="-8" name="Compare two values" sid="184355841795453" type="System">
+                            <param id="0" name="First value">PlayerBox.Platform.VectorX</param>
+                            <param id="1" name="Comparison">2</param>
+                            <param id="2" name="Second value">600</param>
+                        </condition>
+                        <condition behavior="Platform" id="2" name="Is on floor" sid="527516030934109" type="PlayerBox" />
+                        <condition id="-7" name="Compare instance variable" sid="431727251932461" type="Test">
+                            <param id="0" name="Instance variable">Fight</param>
+                            <param id="1" name="Comparison">0</param>
+                            <param id="2" name="Value">0</param>
+                        </condition>
+                        <condition id="2" inverted="1" name="Key is down" sid="821399675676444" type="Keyboard">
+                            <param id="0" name="Key">37 (Left arrow)</param>
+                        </condition>
+                        <condition id="2" inverted="1" name="Key is down" sid="174270037477123" type="Keyboard">
+                            <param id="0" name="Key">38 (Up arrow)</param>
+                        </condition>
+                        <condition id="2" inverted="1" name="Key is down" sid="212363365351295" type="Keyboard">
+                            <param id="0" name="Key">90 (Z)</param>
+                        </condition>
+                    </conditions>
+                    <actions>
+                        <action id="0" name="Set animation" sid="934878437981442" type="Test">
+                            <param id="0" name="Animation">&quot;Walk&quot;</param>
+                            <param id="1" name="Where to start playing this animation">4</param>
+                            <param id="2" name="Blend Duration">100</param>
+                        </action>
+                        <action id="1" name="Set playback speed ratio" sid="874182114140110" type="Test">
+                            <param id="0" name="Speed Ratio">0.8</param>
+                        </action>
+                        <action behavior="Platform" id="2" name="Set acceleration" sid="827428669287797" type="PlayerBox">
+                            <param id="0" name="Acceleration">325</param>
+                        </action>
+                    </actions>
+                </event-block>
+                <event-block sid="518043894640952">
+                    <conditions>
+                        <condition id="-8" name="Compare two values" sid="821504363898269" type="System">
+                            <param id="0" name="First value">PlayerBox.Platform.VectorX</param>
+                            <param id="1" name="Comparison">0</param>
+                            <param id="2" name="Second value">0</param>
+                        </condition>
+                        <condition behavior="Platform" id="2" name="Is on floor" sid="503769341858695" type="PlayerBox" />
+                        <condition id="2" inverted="1" name="Key is down" sid="587321233790073" type="Keyboard">
+                            <param id="0" name="Key">40 (Down arrow)</param>
+                        </condition>
+                        <condition id="2" inverted="1" name="Key is down" sid="200123554555734" type="Keyboard">
+                            <param id="0" name="Key">38 (Up arrow)</param>
+                        </condition>
+                        <condition id="2" inverted="1" name="Key is down" sid="201043922431340" type="Keyboard">
+                            <param id="0" name="Key">90 (Z)</param>
+                        </condition>
+                        <condition id="2" inverted="1" name="Key is down" sid="863213896215416" type="Keyboard">
+                            <param id="0" name="Key">37 (Left arrow)</param>
+                        </condition>
+                        <condition id="2" inverted="1" name="Key is down" sid="694985671458947" type="Keyboard">
+                            <param id="0" name="Key">39 (Right arrow)</param>
+                        </condition>
+                        <condition id="2" inverted="1" name="Key is down" sid="235199494723503" type="Keyboard">
+                            <param id="0" name="Key">90 (Z)</param>
+                        </condition>
+                        <condition id="-7" name="Compare instance variable" sid="816813740531502" type="Test">
+                            <param id="0" name="Instance variable">Idle</param>
+                            <param id="1" name="Comparison">0</param>
+                            <param id="2" name="Value">0</param>
+                        </condition>
+                    </conditions>
+                    <actions>
+                        <action id="1" name="Set playback speed ratio" sid="673375429619384" type="Test">
+                            <param id="0" name="Speed Ratio">1.5</param>
+                        </action>
+                        <action id="0" name="Set animation" sid="900944878940026" type="Test">
+                            <param id="0" name="Animation">&quot;Idle&quot;</param>
+                            <param id="1" name="Where to start playing this animation">4</param>
+                            <param id="2" name="Blend Duration">100</param>
+                        </action>
+                        <action id="3" name="Set animation looping" sid="426762171525015" type="Test">
+                            <param id="0" name="Loop animation?">1</param>
+                        </action>
+                        <action behavior="Platform" id="2" name="Set acceleration" sid="786864540365553" type="PlayerBox">
+                            <param id="0" name="Acceleration">325</param>
+                        </action>
+                    </actions>
+                </event-block>
+                <event-block sid="635960045505092">
+                    <conditions>
+                        <condition id="-8" name="Compare two values" sid="442229033623832" type="System">
+                            <param id="0" name="First value">PlayerBox.Platform.VectorX</param>
+                            <param id="1" name="Comparison">2</param>
+                            <param id="2" name="Second value">0</param>
+                        </condition>
+                        <condition id="-8" name="Compare two values" sid="718870576307191" type="System">
+                            <param id="0" name="First value">PlayerBox.Platform.VectorX</param>
+                            <param id="1" name="Comparison">4</param>
+                            <param id="2" name="Second value">-600</param>
+                        </condition>
+                        <condition behavior="Platform" id="2" name="Is on floor" sid="503697081407626" type="PlayerBox" />
+                        <condition id="-7" name="Compare instance variable" sid="324102784378523" type="Test">
+                            <param id="0" name="Instance variable">Crawl</param>
+                            <param id="1" name="Comparison">0</param>
+                            <param id="2" name="Value">0</param>
+                        </condition>
+                        <condition id="-7" name="Compare instance variable" sid="417542141375925" type="Test">
+                            <param id="0" name="Instance variable">Fight</param>
+                            <param id="1" name="Comparison">0</param>
+                            <param id="2" name="Value">0</param>
+                        </condition>
+                        <condition id="2" inverted="1" name="Key is down" sid="298670476110834" type="Keyboard">
+                            <param id="0" name="Key">39 (Right arrow)</param>
+                        </condition>
+                        <condition id="2" inverted="1" name="Key is down" sid="576070829818735" type="Keyboard">
+                            <param id="0" name="Key">38 (Up arrow)</param>
+                        </condition>
+                        <condition id="2" inverted="1" name="Key is down" sid="188106865509238" type="Keyboard">
+                            <param id="0" name="Key">90 (Z)</param>
+                        </condition>
+                    </conditions>
+                    <actions>
+                        <action id="0" name="Set animation" sid="784662560873954" type="Test">
+                            <param id="0" name="Animation">&quot;Walk&quot;</param>
+                            <param id="1" name="Where to start playing this animation">4</param>
+                            <param id="2" name="Blend Duration">100</param>
+                        </action>
+                        <action id="1" name="Set playback speed ratio" sid="740425978283032" type="Test">
+                            <param id="0" name="Speed Ratio">0.8</param>
+                        </action>
+                        <action behavior="Platform" id="2" name="Set acceleration" sid="214813774646291" type="PlayerBox">
+                            <param id="0" name="Acceleration">325</param>
+                        </action>
+                    </actions>
+                </event-block>
+                <event-block sid="979536394624267">
+                    <conditions>
+                        <condition id="0" name="On key pressed" sid="284012919157355" type="Keyboard">
+                            <param id="0" name="Key">17 (Ctrl)</param>
+                        </condition>
+                        <condition behavior="Platform" id="2" name="Is on floor" sid="646567658901432" type="PlayerBox" />
+                        <condition id="-8" name="Compare two values" sid="682644134637827" type="System">
+                            <param id="0" name="First value">PlayerBox.Platform.VectorX</param>
+                            <param id="1" name="Comparison">2</param>
+                            <param id="2" name="Second value">500</param>
+                        </condition>
+                        <condition id="-8" name="Compare two values" sid="466210027107459" type="System">
+                            <param id="0" name="First value">PlayerBox.Platform.VectorX</param>
+                            <param id="1" name="Comparison">5</param>
+                            <param id="2" name="Second value">-500</param>
+                        </condition>
+                        <condition id="2" inverted="1" name="Key is down" sid="154803078542838" type="Keyboard">
+                            <param id="0" name="Key">40 (Down arrow)</param>
+                        </condition>
+                        <condition id="2" inverted="1" name="Key is down" sid="333939733439865" type="Keyboard">
+                            <param id="0" name="Key">38 (Up arrow)</param>
+                        </condition>
+                        <condition id="2" inverted="1" name="Key is down" sid="883331113750137" type="Keyboard">
+                            <param id="0" name="Key">90 (Z)</param>
+                        </condition>
+                    </conditions>
+                    <actions>
+                        <action behavior="Platform" id="1" name="Set max speed" sid="970977614747539" type="PlayerBox">
+                            <param id="0" name="Max Speed">200</param>
+                        </action>
+                    </actions>
+                </event-block>
+                <event-block sid="520053071303247">
+                    <conditions>
+                        <condition id="0" name="On key pressed" sid="927738060707422" type="Keyboard">
+                            <param id="0" name="Key">16 (Shift)</param>
+                        </condition>
+                        <condition behavior="Platform" id="2" name="Is on floor" sid="369891395791212" type="PlayerBox" />
+                    </conditions>
+                    <actions />
+                </event-block>
+                <event-block sid="599202183793344">
+                    <conditions>
+                        <condition id="3" name="On key released" sid="264336291564009" type="Keyboard">
+                            <param id="0" name="Key">17 (Ctrl)</param>
+                        </condition>
+                    </conditions>
+                    <actions>
+                        <action behavior="Platform" id="1" name="Set max speed" sid="530069473133932" type="PlayerBox">
+                            <param id="0" name="Max Speed">2000</param>
+                        </action>
+                    </actions>
+                </event-block>
+            </sub-events>
+        </event-group>
+        <event-group description="" sid="400015753583355" title="Sprint">
+            <sub-events>
+                <event-block sid="495527930606580">
+                    <conditions>
+                        <condition id="2" inverted="1" name="Key is down" sid="248973198491292" type="Keyboard">
+                            <param id="0" name="Key">40 (Down arrow)</param>
+                        </condition>
+                        <condition id="-7" name="Compare instance variable" sid="354088424535636" type="Test">
+                            <param id="0" name="Instance variable">Crawl</param>
+                            <param id="1" name="Comparison">0</param>
+                            <param id="2" name="Value">0</param>
+                        </condition>
+                        <condition id="-8" name="Compare two values" sid="806407643004723" type="System">
+                            <param id="0" name="First value">PlayerBox.Platform.VectorX</param>
+                            <param id="1" name="Comparison">4</param>
+                            <param id="2" name="Second value">800</param>
+                        </condition>
+                        <condition behavior="Platform" id="2" name="Is on floor" sid="931897339913645" type="PlayerBox" />
+                        <condition id="-8" inverted="1" name="Is boolean instance variable set" sid="514660836323845" type="Test">
+                            <param id="0" name="Instance variable">AllStop</param>
+                        </condition>
+                    </conditions>
+                    <actions>
+                        <action id="0" name="Set animation" sid="463335787620580" type="Test">
+                            <param id="0" name="Animation">&quot;Sprint&quot;</param>
+                            <param id="1" name="Where to start playing this animation">4</param>
+                            <param id="2" name="Blend Duration">150</param>
+                        </action>
+                        <action id="1" name="Set playback speed ratio" sid="632895010704659" type="Test">
+                            <param id="0" name="Speed Ratio">abs(PlayerBox.Platform.VectorX/PlayerBox.Platform.MaxSpeed*1.3)</param>
+                        </action>
+                        <action behavior="Platform" id="2" name="Set acceleration" sid="819168010056396" type="PlayerBox">
+                            <param id="0" name="Acceleration">800</param>
+                        </action>
+                    </actions>
+                </event-block>
+                <event-block sid="875291472567661">
+                    <conditions>
+                        <condition id="-7" name="Compare instance variable" sid="131185311571501" type="Test">
+                            <param id="0" name="Instance variable">Crawl</param>
+                            <param id="1" name="Comparison">0</param>
+                            <param id="2" name="Value">0</param>
+                        </condition>
+                        <condition id="-8" name="Compare two values" sid="548405297199468" type="System">
+                            <param id="0" name="First value">PlayerBox.Platform.VectorX</param>
+                            <param id="1" name="Comparison">2</param>
+                            <param id="2" name="Second value">-800</param>
+                        </condition>
+                        <condition behavior="Platform" id="2" name="Is on floor" sid="730235038517675" type="PlayerBox" />
+                        <condition id="2" inverted="1" name="Key is down" sid="221236643526919" type="Keyboard">
+                            <param id="0" name="Key">40 (Down arrow)</param>
+                        </condition>
+                        <condition id="-8" inverted="1" name="Is boolean instance variable set" sid="354579417495452" type="Test">
+                            <param id="0" name="Instance variable">AllStop</param>
+                        </condition>
+                    </conditions>
+                    <actions>
+                        <action id="0" name="Set animation" sid="967589209129180" type="Test">
+                            <param id="0" name="Animation">&quot;Sprint&quot;</param>
+                            <param id="1" name="Where to start playing this animation">4</param>
+                            <param id="2" name="Blend Duration">150</param>
+                        </action>
+                        <action id="1" name="Set playback speed ratio" sid="793983232781916" type="Test">
+                            <param id="0" name="Speed Ratio">abs(PlayerBox.Platform.VectorX/PlayerBox.Platform.MaxSpeed*1.3)</param>
+                        </action>
+                        <action behavior="Platform" id="2" name="Set acceleration" sid="973639825672787" type="PlayerBox">
+                            <param id="0" name="Acceleration">800</param>
+                        </action>
+                    </actions>
+                </event-block>
+            </sub-events>
+        </event-group>
+        <event-group description="" sid="945681821562364" title="Jump">
+            <sub-events>
+                <event-block sid="209400433327542">
+                    <conditions>
+                        <condition behavior="Platform" id="5" name="On jump" sid="495862600326118" type="PlayerBox" />
+                    </conditions>
+                    <actions>
+                        <action id="0" name="Set animation" sid="725518976598928" type="Test">
+                            <param id="0" name="Animation">&quot;Jump Start&quot;</param>
+                            <param id="1" name="Where to start playing this animation">0</param>
+                            <param id="2" name="Blend Duration">0</param>
+                        </action>
+                        <action id="3" name="Set animation looping" sid="954953769083789" type="Test">
+                            <param id="0" name="Loop animation?">0</param>
+                        </action>
+                        <action id="1" name="Set playback speed ratio" sid="306972836397463" type="Test">
+                            <param id="0" name="Speed Ratio">1.0</param>
+                        </action>
+                        <action id="-10" name="Set value" sid="667341906608247" type="Test">
+                            <param id="0" name="Instance variable">Idle</param>
+                            <param id="1" name="Value">1</param>
+                        </action>
+                    </actions>
+                </event-block>
+                <event-block sid="571400280180843">
+                    <conditions>
+                        <condition id="0" name="On animation finished" sid="284850590820748" type="Test">
+                            <param id="0" name="Animation">&quot;Jump Start&quot;</param>
+                        </condition>
+                        <condition behavior="Platform" id="2" inverted="1" name="Is on floor" sid="793136150281063" type="PlayerBox" />
+                        <condition id="-7" name="Compare instance variable" sid="616267832389629" type="Test">
+                            <param id="0" name="Instance variable">FlipKick</param>
+                            <param id="1" name="Comparison">0</param>
+                            <param id="2" name="Value">0</param>
+                        </condition>
+                    </conditions>
+                    <actions>
+                        <action id="0" name="Set animation" sid="785383285290389" type="Test">
+                            <param id="0" name="Animation">&quot;Jump Loop&quot;</param>
+                            <param id="1" name="Where to start playing this animation">3</param>
+                            <param id="2" name="Blend Duration">100</param>
+                        </action>
+                        <action id="3" name="Set animation looping" sid="740761710802587" type="Test">
+                            <param id="0" name="Loop animation?">1</param>
+                        </action>
+                    </actions>
+                </event-block>
+                <event-block sid="187745447615830">
+                    <conditions>
+                        <condition id="0" name="On key pressed" sid="616327801037760" type="Keyboard">
+                            <param id="0" name="Key">90 (Z)</param>
+                        </condition>
+                        <condition behavior="Platform" id="4" inverted="1" name="Is falling" sid="352373623290218" type="PlayerBox" />
+                        <condition behavior="Platform" id="3" name="Is jumping" sid="670588027357555" type="PlayerBox" />
+                        <condition id="-7" name="Compare instance variable" sid="452917468062733" type="Test">
+                            <param id="0" name="Instance variable">FlipKick</param>
+                            <param id="1" name="Comparison">0</param>
+                            <param id="2" name="Value">0</param>
+                        </condition>
+                    </conditions>
+                    <actions>
+                        <action id="0" name="Set animation" sid="949856182993076" type="Test">
+                            <param id="0" name="Animation">&quot;Jump Kick&quot;</param>
+                            <param id="1" name="Where to start playing this animation">0</param>
+                            <param id="2" name="Blend Duration">0</param>
+                        </action>
+                        <action id="3" name="Set animation looping" sid="720617098448084" type="Test">
+                            <param id="0" name="Loop animation?">0</param>
+                        </action>
+                        <action id="-13" name="Set boolean" sid="278779369026190" type="Test">
+                            <param id="0" name="Instance variable">AllStop</param>
+                            <param id="1" name="Value">1</param>
+                        </action>
+                        <action id="-10" name="Set value" sid="990700470535759" type="Test">
+                            <param id="0" name="Instance variable">FlipKick</param>
+                            <param id="1" name="Value">1</param>
+                        </action>
+                        <action id="-16" name="Wait" sid="385825617724167" type="System">
+                            <param id="0" name="Seconds">1.0</param>
+                        </action>
+                        <action id="-13" name="Set boolean" sid="261329166066792" type="Test">
+                            <param id="0" name="Instance variable">AllStop</param>
+                            <param id="1" name="Value">0</param>
+                        </action>
+                        <action id="-10" name="Set value" sid="709759424479587" type="Test">
+                            <param id="0" name="Instance variable">FlipKick</param>
+                            <param id="1" name="Value">0</param>
+                        </action>
+                    </actions>
+                </event-block>
+                <event-block sid="438871426599288">
+                    <conditions>
+                        <condition behavior="Platform" id="9" name="On landed" sid="954933450941149" type="PlayerBox" />
+                        <condition behavior="Platform" id="2" name="Is on floor" sid="754700767768203" type="PlayerBox" />
+                    </conditions>
+                    <actions>
+                        <action id="-10" name="Set value" sid="663141508587862" type="Test">
+                            <param id="0" name="Instance variable">Idle</param>
+                            <param id="1" name="Value">0</param>
+                        </action>
+                        <action id="0" name="Play" sid="967395221471894" type="Audio">
+                            <param id="0" name="Audio file">Jump Land</param>
+                            <param id="2" name="Loop">0</param>
+                            <param id="3" name="Volume">0</param>
+                            <param id="1" name="Tag (optional)">&quot;&quot;</param>
+                        </action>
+                    </actions>
+                </event-block>
+            </sub-events>
+        </event-group>
+        <event-group description="" sid="511817106867254" title="Brakes">
+            <sub-events>
+                <event-block sid="129082144851317">
+                    <conditions>
+                        <condition id="2" name="Key is down" sid="335959615237799" type="Keyboard">
+                            <param id="0" name="Key">40 (Down arrow)</param>
+                        </condition>
+                        <condition id="-8" name="Compare two values" sid="352465464332696" type="System">
+                            <param id="0" name="First value">PlayerBox.Platform.Speed</param>
+                            <param id="1" name="Comparison">4</param>
+                            <param id="2" name="Second value">700</param>
+                        </condition>
+                        <condition behavior="Platform" id="2" name="Is on floor" sid="456164482006730" type="PlayerBox" />
+                        <condition id="-8" inverted="1" name="Is boolean instance variable set" sid="493615886998432" type="Test">
+                            <param id="0" name="Instance variable">AllStop</param>
+                        </condition>
+                        <condition id="2" inverted="1" name="Key is down" sid="359000471689984" type="Keyboard">
+                            <param id="0" name="Key">39 (Right arrow)</param>
+                        </condition>
+                        <condition id="2" inverted="1" name="Key is down" sid="509427535453854" type="Keyboard">
+                            <param id="0" name="Key">37 (Left arrow)</param>
+                        </condition>
+                    </conditions>
+                    <actions>
+                        <action id="0" name="Set animation" sid="977101169349992" type="Test">
+                            <param id="0" name="Animation">&quot;Brakes&quot;</param>
+                            <param id="1" name="Where to start playing this animation">4</param>
+                            <param id="2" name="Blend Duration">300</param>
+                        </action>
+                        <action id="1" name="Set playback speed ratio" sid="448510804392371" type="Test">
+                            <param id="0" name="Speed Ratio">1.0</param>
+                        </action>
+                        <action behavior="Platform" id="3" name="Set deceleration" sid="661043922394201" type="PlayerBox">
+                            <param id="0" name="Deceleration">1500</param>
+                        </action>
+                        <action id="3" name="Set animation looping" sid="811344660841593" type="Test">
+                            <param id="0" name="Loop animation?">1</param>
+                        </action>
+                    </actions>
+                </event-block>
+                <event-block sid="460640489402771">
+                    <conditions>
+                        <condition id="3" name="On key released" sid="449739416637036" type="Keyboard">
+                            <param id="0" name="Key">40 (Down arrow)</param>
+                        </condition>
+                    </conditions>
+                    <actions>
+                        <action behavior="Platform" id="3" name="Set deceleration" sid="877777866797096" type="PlayerBox">
+                            <param id="0" name="Deceleration">700</param>
+                        </action>
+                    </actions>
+                </event-block>
+            </sub-events>
+        </event-group>
+        <event-group description="" sid="600213238825303" title="Skid">
+            <sub-events>
+                <event-block sid="130129535816413">
+                    <conditions>
+                        <condition id="-8" name="Compare two values" sid="932175822566696" type="System">
+                            <param id="0" name="First value">PlayerBox.Platform.VectorX</param>
+                            <param id="1" name="Comparison">4</param>
+                            <param id="2" name="Second value">50</param>
+                        </condition>
+                        <condition id="2" name="Key is down" sid="705719679061347" type="Keyboard">
+                            <param id="0" name="Key">37 (Left arrow)</param>
+                        </condition>
+                        <condition behavior="Platform" id="2" name="Is on floor" sid="833889162555374" type="PlayerBox" />
+                        <condition id="-8" name="Compare two values" sid="388564436627835" type="System">
+                            <param id="0" name="First value">PlayerBox.Platform.VectorX</param>
+                            <param id="1" name="Comparison">2</param>
+                            <param id="2" name="Second value">500</param>
+                        </condition>
+                    </conditions>
+                    <actions>
+                        <action id="0" name="Set animation" sid="681146223874195" type="Test">
+                            <param id="0" name="Animation">&quot;Slide Loop&quot;</param>
+                            <param id="1" name="Where to start playing this animation">4</param>
+                            <param id="2" name="Blend Duration">100</param>
+                        </action>
+                        <action id="1" name="Set playback speed ratio" sid="305015750045086" type="Test">
+                            <param id="0" name="Speed Ratio">1.0</param>
+                        </action>
+                    </actions>
+                </event-block>
+                <event-block sid="284094957530099">
+                    <conditions>
+                        <condition id="-8" name="Compare two values" sid="868856018191944" type="System">
+                            <param id="0" name="First value">PlayerBox.Platform.VectorX</param>
+                            <param id="1" name="Comparison">2</param>
+                            <param id="2" name="Second value">-50</param>
+                        </condition>
+                        <condition id="2" name="Key is down" sid="687325592915787" type="Keyboard">
+                            <param id="0" name="Key">39 (Right arrow)</param>
+                        </condition>
+                        <condition behavior="Platform" id="2" name="Is on floor" sid="708057341395267" type="PlayerBox" />
+                        <condition id="-8" name="Compare two values" sid="950635612165295" type="System">
+                            <param id="0" name="First value">PlayerBox.Platform.VectorX</param>
+                            <param id="1" name="Comparison">4</param>
+                            <param id="2" name="Second value">-500</param>
+                        </condition>
+                    </conditions>
+                    <actions>
+                        <action id="0" name="Set animation" sid="848501082216383" type="Test">
+                            <param id="0" name="Animation">&quot;Slide Loop&quot;</param>
+                            <param id="1" name="Where to start playing this animation">4</param>
+                            <param id="2" name="Blend Duration">100</param>
+                        </action>
+                        <action id="1" name="Set playback speed ratio" sid="371108794653459" type="Test">
+                            <param id="0" name="Speed Ratio">1.0</param>
+                        </action>
+                    </actions>
+                </event-block>
+            </sub-events>
+        </event-group>
+        <event-group description="" sid="590503356630452" title="mudtest">
+            <sub-events>
+                <event-block sid="362372630049426">
+                    <conditions>
+                        <condition id="0" name="On collision with another object" sid="649117287298194" type="PlayerBox">
+                            <param id="0" name="Object">Hoodie</param>
+                        </condition>
+                        <condition id="-7" name="Compare instance variable" sid="277220712142346" type="Test">
+                            <param id="0" name="Instance variable">Muddy</param>
+                            <param id="1" name="Comparison">0</param>
+                            <param id="2" name="Value">0</param>
+                        </condition>
+                    </conditions>
+                    <actions>
+                        <action id="10" name="Append character map" sid="357535366162858" type="Test">
+                            <param id="0" name="Character Map">&quot;No Hoodie&quot;</param>
+                        </action>
+                        <action id="-10" name="Set value" sid="409229313988699" type="Test">
+                            <param id="0" name="Instance variable">nohoodie</param>
+                            <param id="1" name="Value">1</param>
+                        </action>
+                    </actions>
+                </event-block>
+                <event-block sid="802126613100347">
+                    <conditions>
+                        <condition id="0" name="On collision with another object" sid="567122914759896" type="PlayerBox">
+                            <param id="0" name="Object">Hoodie</param>
+                        </condition>
+                        <condition id="-7" name="Compare instance variable" sid="629930914839002" type="Test">
+                            <param id="0" name="Instance variable">Muddy</param>
+                            <param id="1" name="Comparison">0</param>
+                            <param id="2" name="Value">1</param>
+                        </condition>
+                    </conditions>
+                    <actions>
+                        <action id="10" name="Append character map" sid="179090021689311" type="Test">
+                            <param id="0" name="Character Map">&quot;Mud&quot;</param>
+                        </action>
+                        <action id="10" name="Append character map" sid="241474009339985" type="Test">
+                            <param id="0" name="Character Map">&quot;No Hoodie&quot;</param>
+                        </action>
+                        <action id="-10" name="Set value" sid="542776569924065" type="Test">
+                            <param id="0" name="Instance variable">nohoodie</param>
+                            <param id="1" name="Value">1</param>
+                        </action>
+                    </actions>
+                </event-block>
+                <event-block sid="711359534453496">
+                    <conditions>
+                        <condition id="0" name="On collision with another object" sid="719775877916960" type="PlayerBox">
+                            <param id="0" name="Object">Mud</param>
+                        </condition>
+                    </conditions>
+                    <actions>
+                        <action id="10" name="Append character map" sid="436161183562280" type="Test">
+                            <param id="0" name="Character Map">&quot;Mud&quot;</param>
+                        </action>
+                        <action id="-10" name="Set value" sid="118485210916988" type="Test">
+                            <param id="0" name="Instance variable">Muddy</param>
+                            <param id="1" name="Value">1</param>
+                        </action>
+                    </actions>
+                    <sub-events>
+                        <event-block sid="344480552272547">
+                            <conditions />
+                            <actions>
+                                <action id="10" name="Append character map" sid="610280916703607" type="Test">
+                                    <param id="0" name="Character Map">&quot;No Shoes&quot;</param>
+                                </action>
+                            </actions>
+                        </event-block>
+                        <event-block sid="434869347412253">
+                            <conditions />
+                            <actions>
+                                <action id="10" name="Append character map" sid="251402342343651" type="Test">
+                                    <param id="0" name="Character Map">&quot;no socks&quot;</param>
+                                </action>
+                            </actions>
+                        </event-block>
+                        <event-block sid="804452752531477">
+                            <conditions>
+                                <condition id="-7" name="Compare instance variable" sid="269451706128191" type="Test">
+                                    <param id="0" name="Instance variable">nohoodie</param>
+                                    <param id="1" name="Comparison">0</param>
+                                    <param id="2" name="Value">1</param>
+                                </condition>
+                            </conditions>
+                            <actions>
+                                <action id="10" name="Append character map" sid="521275758325940" type="Test">
+                                    <param id="0" name="Character Map">&quot;No Hoodie&quot;</param>
+                                </action>
+                            </actions>
+                        </event-block>
+                        <event-block sid="128128165688081">
+                            <conditions />
+                            <actions>
+                                <action id="10" name="Append character map" sid="790453864988528" type="Test">
+                                    <param id="0" name="Character Map">&quot;no left shoe&quot;</param>
+                                </action>
+                            </actions>
+                        </event-block>
+                        <event-block sid="362597543777389">
+                            <conditions />
+                            <actions>
+                                <action id="10" name="Append character map" sid="638048911600249" type="Test">
+                                    <param id="0" name="Character Map">&quot;no right shoe&quot;</param>
+                                </action>
+                            </actions>
+                        </event-block>
+                        <event-block sid="363853759715011">
+                            <conditions />
+                            <actions>
+                                <action id="10" name="Append character map" sid="728568646585652" type="Test">
+                                    <param id="0" name="Character Map">&quot;no left sock&quot;</param>
+                                </action>
+                            </actions>
+                        </event-block>
+                        <event-block sid="625454741637162">
+                            <conditions />
+                            <actions>
+                                <action id="10" name="Append character map" sid="681060861111112" type="Test">
+                                    <param id="0" name="Character Map">&quot;no right sock&quot;</param>
+                                </action>
+                            </actions>
+                        </event-block>
+                    </sub-events>
+                </event-block>
+            </sub-events>
+        </event-group>
+        <event-group description="" sid="561004871212832" title="Dash Test">
+            <sub-events>
+                <event-block sid="224186752463402">
+                    <conditions>
+                        <condition id="0" name="On key pressed" sid="417293026969981" type="Keyboard">
+                            <param id="0" name="Key">39 (Right arrow)</param>
+                        </condition>
+                        <condition behavior="Platform" id="2" name="Is on floor" sid="961478603425724" type="PlayerBox" />
+                        <condition id="-8" name="Compare two values" sid="332519109573473" type="System">
+                            <param id="0" name="First value">PlayerBox.Platform.Speed</param>
+                            <param id="1" name="Comparison">2</param>
+                            <param id="2" name="Second value">600</param>
+                        </condition>
+                    </conditions>
+                    <actions>
+                        <action id="-11" name="Add to" sid="380213052966104" type="Test">
+                            <param id="0" name="Instance variable">Dash</param>
+                            <param id="1" name="Value">1</param>
+                        </action>
+                        <action id="-16" name="Wait" sid="737010297208645" type="System">
+                            <param id="0" name="Seconds">0.2</param>
+                        </action>
+                        <action id="-10" name="Set value" sid="795647302369137" type="Test">
+                            <param id="0" name="Instance variable">Dash</param>
+                            <param id="1" name="Value">0</param>
+                        </action>
+                    </actions>
+                </event-block>
+                <event-block sid="528773879157018">
+                    <conditions>
+                        <condition id="-8" name="Compare two values" sid="161664313938612" type="System">
+                            <param id="0" name="First value">Test.Dash</param>
+                            <param id="1" name="Comparison">0</param>
+                            <param id="2" name="Second value">2</param>
+                        </condition>
+                    </conditions>
+                    <actions>
+                        <action id="-13" name="Set boolean" sid="888031261306216" type="Test">
+                            <param id="0" name="Instance variable">AllStop</param>
+                            <param id="1" name="Value">1</param>
+                        </action>
+                        <action behavior="Platform" id="0" name="Set ignoring input" sid="462292689529238" type="PlayerBox">
+                            <param id="0" name="Input">1</param>
+                        </action>
+                        <action id="0" name="Set animation" sid="676757873490025" type="Test">
+                            <param id="0" name="Animation">&quot;Dash&quot;</param>
+                            <param id="1" name="Where to start playing this animation">0</param>
+                            <param id="2" name="Blend Duration">0</param>
+                        </action>
+                        <action id="1" name="Set playback speed ratio" sid="365364875716617" type="Test">
+                            <param id="0" name="Speed Ratio">1.5</param>
+                        </action>
+                        <action id="3" name="Set animation looping" sid="686055777473161" type="Test">
+                            <param id="0" name="Loop animation?">0</param>
+                        </action>
+                        <action behavior="Platform" id="1" name="Set max speed" sid="108800224796804" type="PlayerBox">
+                            <param id="0" name="Max Speed">5000</param>
+                        </action>
+                        <action behavior="Platform" id="8" name="Set vector X" sid="753019856362051" type="PlayerBox">
+                            <param id="0" name="Vector X">5000</param>
+                        </action>
+                        <action id="-16" name="Wait" sid="675490579107494" type="System">
+                            <param id="0" name="Seconds">0.3</param>
+                        </action>
+                        <action behavior="Platform" id="8" name="Set vector X" sid="452236658798576" type="PlayerBox">
+                            <param id="0" name="Vector X">0</param>
+                        </action>
+                        <action behavior="Platform" id="1" name="Set max speed" sid="146194664134494" type="PlayerBox">
+                            <param id="0" name="Max Speed">2000</param>
+                        </action>
+                        <action id="0" name="Set animation" sid="191154809560424" type="Test">
+                            <param id="0" name="Animation">&quot;Brakes&quot;</param>
+                            <param id="1" name="Where to start playing this animation">2</param>
+                            <param id="2" name="Blend Duration">0</param>
+                        </action>
+                        <action id="-13" name="Set boolean" sid="611054382571737" type="Test">
+                            <param id="0" name="Instance variable">AllStop</param>
+                            <param id="1" name="Value">0</param>
+                        </action>
+                        <action behavior="Platform" id="0" name="Set ignoring input" sid="811351153885781" type="PlayerBox">
+                            <param id="0" name="Input">0</param>
+                        </action>
+                    </actions>
+                </event-block>
+                <event-block sid="531829145287960">
+                    <conditions>
+                        <condition id="0" name="On key pressed" sid="320714858275890" type="Keyboard">
+                            <param id="0" name="Key">37 (Left arrow)</param>
+                        </condition>
+                        <condition behavior="Platform" id="2" name="Is on floor" sid="875774294933881" type="PlayerBox" />
+                        <condition id="-8" name="Compare two values" sid="918629620232174" type="System">
+                            <param id="0" name="First value">PlayerBox.Platform.Speed</param>
+                            <param id="1" name="Comparison">2</param>
+                            <param id="2" name="Second value">600</param>
+                        </condition>
+                    </conditions>
+                    <actions>
+                        <action id="-11" name="Add to" sid="917470060441266" type="Test">
+                            <param id="0" name="Instance variable">DashLeft</param>
+                            <param id="1" name="Value">1</param>
+                        </action>
+                        <action id="-16" name="Wait" sid="654155273070740" type="System">
+                            <param id="0" name="Seconds">0.2</param>
+                        </action>
+                        <action id="-10" name="Set value" sid="280137139327170" type="Test">
+                            <param id="0" name="Instance variable">DashLeft</param>
+                            <param id="1" name="Value">0</param>
+                        </action>
+                    </actions>
+                </event-block>
+                <event-block sid="264107843094333">
+                    <conditions>
+                        <condition id="-8" name="Compare two values" sid="975918125844196" type="System">
+                            <param id="0" name="First value">Test.DashLeft</param>
+                            <param id="1" name="Comparison">0</param>
+                            <param id="2" name="Second value">2</param>
+                        </condition>
+                    </conditions>
+                    <actions>
+                        <action id="-13" name="Set boolean" sid="170383196047845" type="Test">
+                            <param id="0" name="Instance variable">AllStop</param>
+                            <param id="1" name="Value">1</param>
+                        </action>
+                        <action behavior="Platform" id="0" name="Set ignoring input" sid="798622855437955" type="PlayerBox">
+                            <param id="0" name="Input">1</param>
+                        </action>
+                        <action id="0" name="Set animation" sid="334210380940633" type="Test">
+                            <param id="0" name="Animation">&quot;Dash&quot;</param>
+                            <param id="1" name="Where to start playing this animation">0</param>
+                            <param id="2" name="Blend Duration">0</param>
+                        </action>
+                        <action id="1" name="Set playback speed ratio" sid="965344558226130" type="Test">
+                            <param id="0" name="Speed Ratio">1.5</param>
+                        </action>
+                        <action id="3" name="Set animation looping" sid="482961047079597" type="Test">
+                            <param id="0" name="Loop animation?">0</param>
+                        </action>
+                        <action behavior="Platform" id="1" name="Set max speed" sid="581172873594007" type="PlayerBox">
+                            <param id="0" name="Max Speed">5000</param>
+                        </action>
+                        <action behavior="Platform" id="8" name="Set vector X" sid="867467437696778" type="PlayerBox">
+                            <param id="0" name="Vector X">-5000</param>
+                        </action>
+                        <action id="-16" name="Wait" sid="770060205321060" type="System">
+                            <param id="0" name="Seconds">0.3</param>
+                        </action>
+                        <action behavior="Platform" id="8" name="Set vector X" sid="327337601939046" type="PlayerBox">
+                            <param id="0" name="Vector X">0</param>
+                        </action>
+                        <action behavior="Platform" id="1" name="Set max speed" sid="959178902222670" type="PlayerBox">
+                            <param id="0" name="Max Speed">2000</param>
+                        </action>
+                        <action id="0" name="Set animation" sid="407612526980805" type="Test">
+                            <param id="0" name="Animation">&quot;Brakes&quot;</param>
+                            <param id="1" name="Where to start playing this animation">3</param>
+                            <param id="2" name="Blend Duration">100</param>
+                        </action>
+                        <action id="-13" name="Set boolean" sid="754271768255016" type="Test">
+                            <param id="0" name="Instance variable">AllStop</param>
+                            <param id="1" name="Value">0</param>
+                        </action>
+                        <action behavior="Platform" id="0" name="Set ignoring input" sid="477989128314969" type="PlayerBox">
+                            <param id="0" name="Input">0</param>
+                        </action>
+                    </actions>
+                </event-block>
+            </sub-events>
+        </event-group>
+        <event-group description="" sid="352290172583764" title="Wall slide+Jump">
+            <sub-events>
+                <event-block sid="122004108570713">
+                    <conditions>
+                        <condition behavior="Platform" id="2" inverted="1" name="Is on floor" sid="726706857140942" type="PlayerBox" />
+                    </conditions>
+                    <actions />
+                    <sub-events>
+                        <event-block sid="996011411630758">
+                            <conditions>
+                                <condition behavior="Platform" id="10" name="Is by wall" sid="759518666603469" type="PlayerBox">
+                                    <param id="0" name="Side">1</param>
+                                </condition>
+                            </conditions>
+                            <actions>
+                                <action behavior="Platform" id="6" name="Set max fall speed" sid="126142589055943" type="PlayerBox">
+                                    <param id="0" name="Max fall speed">150</param>
+                                </action>
+                                <action id="0" name="Set animation" sid="708096305174553" type="Test">
+                                    <param id="0" name="Animation">&quot;Wall Slide&quot;</param>
+                                    <param id="1" name="Where to start playing this animation">2</param>
+                                    <param id="2" name="Blend Duration">0</param>
+                                </action>
+                                <action id="1" name="Set playback speed ratio" sid="180640436992555" type="Test">
+                                    <param id="0" name="Speed Ratio">0.7</param>
+                                </action>
+                                <action id="11" name="Set mirrored (on x axis)" sid="426666454255411" type="Test">
+                                    <param id="0" name="Mirror X Axis">1</param>
+                                </action>
+                            </actions>
+                            <sub-events>
+                                <event-block sid="678792888677124">
+                                    <conditions>
+                                        <condition id="0" name="On key pressed" sid="909720778727317" type="Keyboard">
+                                            <param id="0" name="Key">38 (Up arrow)</param>
+                                        </condition>
+                                    </conditions>
+                                    <actions>
+                                        <action id="0" name="Set animation" sid="132561194099208" type="Test">
+                                            <param id="0" name="Animation">&quot;Wall Jump&quot;</param>
+                                            <param id="1" name="Where to start playing this animation">0</param>
+                                            <param id="2" name="Blend Duration">0</param>
+                                        </action>
+                                        <action behavior="Platform" id="9" name="Set vector Y" sid="552385682527169" type="PlayerBox">
+                                            <param id="0" name="Vector Y">-600</param>
+                                        </action>
+                                        <action behavior="Platform" id="8" name="Set vector X" sid="643351130636634" type="PlayerBox">
+                                            <param id="0" name="Vector X">-600</param>
+                                        </action>
+                                        <action id="1" name="Set playback speed ratio" sid="977240937367194" type="Test">
+                                            <param id="0" name="Speed Ratio">2.0</param>
+                                        </action>
+                                    </actions>
+                                </event-block>
+                            </sub-events>
+                        </event-block>
+                        <event-block sid="512025713617191">
+                            <conditions>
+                                <condition behavior="Platform" id="10" name="Is by wall" sid="329975312652283" type="PlayerBox">
+                                    <param id="0" name="Side">0</param>
+                                </condition>
+                            </conditions>
+                            <actions>
+                                <action behavior="Platform" id="6" name="Set max fall speed" sid="805803692716917" type="PlayerBox">
+                                    <param id="0" name="Max fall speed">150</param>
+                                </action>
+                                <action id="0" name="Set animation" sid="103068512010458" type="Test">
+                                    <param id="0" name="Animation">&quot;Wall Slide&quot;</param>
+                                    <param id="1" name="Where to start playing this animation">2</param>
+                                    <param id="2" name="Blend Duration">0</param>
+                                </action>
+                                <action id="1" name="Set playback speed ratio" sid="709880760285554" type="Test">
+                                    <param id="0" name="Speed Ratio">0.7</param>
+                                </action>
+                                <action id="11" name="Set mirrored (on x axis)" sid="741521906323171" type="Test">
+                                    <param id="0" name="Mirror X Axis">0</param>
+                                </action>
+                            </actions>
+                            <sub-events>
+                                <event-block sid="580003984412700">
+                                    <conditions>
+                                        <condition id="0" name="On key pressed" sid="993272223210841" type="Keyboard">
+                                            <param id="0" name="Key">38 (Up arrow)</param>
+                                        </condition>
+                                    </conditions>
+                                    <actions>
+                                        <action id="0" name="Set animation" sid="239862471098952" type="Test">
+                                            <param id="0" name="Animation">&quot;Wall Jump&quot;</param>
+                                            <param id="1" name="Where to start playing this animation">0</param>
+                                            <param id="2" name="Blend Duration">0</param>
+                                        </action>
+                                        <action behavior="Platform" id="9" name="Set vector Y" sid="678247973525450" type="PlayerBox">
+                                            <param id="0" name="Vector Y">-600</param>
+                                        </action>
+                                        <action behavior="Platform" id="8" name="Set vector X" sid="144724274943843" type="PlayerBox">
+                                            <param id="0" name="Vector X">600</param>
+                                        </action>
+                                        <action id="1" name="Set playback speed ratio" sid="105681384305408" type="Test">
+                                            <param id="0" name="Speed Ratio">2.0</param>
+                                        </action>
+                                    </actions>
+                                </event-block>
+                            </sub-events>
+                        </event-block>
+                        <event-block sid="884817941779703">
+                            <conditions>
+                                <condition behavior="Platform" id="10" inverted="1" name="Is by wall" sid="887064204552350" type="PlayerBox">
+                                    <param id="0" name="Side">1</param>
+                                </condition>
+                                <condition behavior="Platform" id="10" inverted="1" name="Is by wall" sid="149196760458064" type="PlayerBox">
+                                    <param id="0" name="Side">0</param>
+                                </condition>
+                            </conditions>
+                            <actions>
+                                <action behavior="Platform" id="6" name="Set max fall speed" sid="502076862276487" type="PlayerBox">
+                                    <param id="0" name="Max fall speed">1000</param>
+                                </action>
+                            </actions>
+                        </event-block>
+                    </sub-events>
+                </event-block>
+                <event-block sid="648088833164870">
+                    <conditions>
+                        <condition behavior="Platform" id="4" name="Is falling" sid="554682960944808" type="PlayerBox" />
+                        <condition behavior="Platform" id="10" inverted="1" name="Is by wall" sid="764862397661076" type="PlayerBox">
+                            <param id="0" name="Side">0</param>
+                        </condition>
+                        <condition behavior="Platform" id="10" inverted="1" name="Is by wall" sid="873866011040197" type="PlayerBox">
+                            <param id="0" name="Side">1</param>
+                        </condition>
+                        <condition id="-8" name="Compare two values" sid="335930906882881" type="System">
+                            <param id="0" name="First value">PlayerBox.Platform.VectorY</param>
+                            <param id="1" name="Comparison">2</param>
+                            <param id="2" name="Second value">900</param>
+                        </condition>
+                    </conditions>
+                    <actions>
+                        <action id="0" name="Set animation" sid="775040592812459" type="Test">
+                            <param id="0" name="Animation">&quot;Jump Loop&quot;</param>
+                            <param id="1" name="Where to start playing this animation">3</param>
+                            <param id="2" name="Blend Duration">100</param>
+                        </action>
+                        <action id="1" name="Set playback speed ratio" sid="263432864457130" type="Test">
+                            <param id="0" name="Speed Ratio">1.0</param>
+                        </action>
+                    </actions>
+                </event-block>
+                <event-block sid="105384956917439">
+                    <conditions>
+                        <condition id="-8" name="Compare two values" sid="128756906948287" type="System">
+                            <param id="0" name="First value">PlayerBox.Platform.VectorY</param>
+                            <param id="1" name="Comparison">4</param>
+                            <param id="2" name="Second value">900</param>
+                        </condition>
+                        <condition behavior="Platform" id="4" name="Is falling" sid="973192389631740" type="PlayerBox" />
+                        <condition behavior="Platform" id="2" inverted="1" name="Is on floor" sid="845564663534910" type="PlayerBox" />
+                        <condition behavior="Platform" id="10" inverted="1" name="Is by wall" sid="615105204267940" type="PlayerBox">
+                            <param id="0" name="Side">0</param>
+                        </condition>
+                        <condition behavior="Platform" id="10" inverted="1" name="Is by wall" sid="375676090604196" type="PlayerBox">
+                            <param id="0" name="Side">1</param>
+                        </condition>
+                    </conditions>
+                    <actions>
+                        <action id="0" name="Set animation" sid="680337737506694" type="Test">
+                            <param id="0" name="Animation">&quot;Fall Loop&quot;</param>
+                            <param id="1" name="Where to start playing this animation">2</param>
+                            <param id="2" name="Blend Duration">0</param>
+                        </action>
+                        <action id="3" name="Set animation looping" sid="876300763868387" type="Test">
+                            <param id="0" name="Loop animation?">1</param>
+                        </action>
+                    </actions>
+                </event-block>
+            </sub-events>
+        </event-group>
+    </events>
+</c2eventsheet>
