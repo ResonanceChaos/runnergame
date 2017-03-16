@@ -14,6 +14,7 @@
         <plugin author="Scirra" id="Keyboard" version="1">Keyboard</plugin>
         <plugin author="Scirra" id="Sprite" version="1">Sprite</plugin>
         <plugin author="BrashMonkey" id="Spriter" version="1">Scml</plugin>
+        <plugin author="Scirra" id="TextBox" version="1">Text box</plugin>
         <plugin author="Scirra" id="TiledBg" version="1">Tiled Background</plugin>
     </used-plugins>
     <used-behaviors>
@@ -18023,6 +18024,13 @@
         </object-type>
         <object-type name="PlayerBox" sid="873228898012508">
             <plugin id="Sprite" />
+            <instance-variables>
+                <instance-variable comment="Combat Stance" name="combatStance" sid="604814056136615" type="boolean" />
+                <instance-variable name="punchLight" sid="417733210353012" type="boolean" />
+                <instance-variable name="punchHeavy" sid="711477305898202" type="boolean" />
+                <instance-variable name="punchFinish" sid="616204641398129" type="boolean" />
+                <instance-variable name="currentAttack" sid="837152707125218" type="string" />
+            </instance-variables>
             <behaviors>
                 <behavior-type name="Platform" sid="387182842400416">
                     <behavior id="Platform" />
@@ -18076,6 +18084,9 @@
         </object-type>
         <object-type name="Audio" sid="828133112581663">
             <plugin id="Audio" />
+        </object-type>
+        <object-type name="TextBox" sid="115516403822496">
+            <plugin id="TextBox" />
         </object-type>
     </object-folder>
     <families>
