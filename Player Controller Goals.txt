@@ -1,0 +1,185 @@
+============Player Controller==================
+
+[HP]
+100/100
+
+-At 60% Player's Idle Looks Fatigued, additional Idle animations stop, Breathing becomes audible, more visible, Facial changes.
+-At 25% Player becomes Fatigued, same as before but more, Walking and regular animations reflect this but not fighting or sprinting.
+
+[Stamina]
+100/100
+-Determines Struggle/Dash/Special Attacks.
+-Refreshes on its own, Item replenish, maybe an Item that halts Stam. Drain.
+-Also affected by Players Clothing State. (See Clothing States)
+
+[Attack]
+-1 punch Button
+-1 Kick Button
+- Dodge
+- Block (not as effective as dodging)
+- Combos are performed by combinations of punches and kicks
+(example p,p,k. p,k,p. p,p,p,p, k,k,k. k,k,p. Etc.)
+-or-
+-Free Flowing combo system
+(example p,Fp,k. Fp,Dk,K) so each direction + P or K = its own move that can be chained together for custom combos.)
+-Jump Kick-
+
+[Dash]
+-Double Tap Direction, enables a speed burst that drains stamina. Should have a max distance per use but stop early if she gets close to an enemy.
+this should enable her to down and dash rather quickly.
+-Dragon kick when attacking in middle of Dash "Zip Kick"
+
+[Falling]
+-Wall Jump and Slide
+-Fall beyond a certain hieght yields Damage if no wall or obstacle to use to slow fall speed.
+-Greater fall yields death/ lose of control to recover.
+-Cant attack while falling.
+
+[Sprinting]
+-Max run speed without powerups or special stage triggers.
+-Can run Across Water/mud/slime/lava/small gaps.
+-Brakes when pressing back (Increases deceleration)
+-Mega man Slide while pressing down
+
+[Crawling]
+-Crouch to Crawl
+-Crawl should stay in Crawl if the ceiling doesnt allow to return to crouch
+
+[Prone]
+(on back)
+-Roll back to feet
+-Roll foward to feet
+-Stand to feet
+(On stomach)
+-Stand to feet 
+-Foward roll to feet
+-If Stamina is below 25% roling turns to a leaping dodge that returns to Prone or slowly stand to feet
+
+[Ledge Grab]
+[Fast long Jump/Dive for distance]
+
+=============Items==============
+
+[Backpack]
+-Enables numerical Quick slots for certain Items
+-Can be lost/Stolen/Ditched to evade certain enemy Grapples
+
+[Items in Backpack]
+
+=Camera=
+-Single action that snaps a photo, Used for Level completion purposes to build "crazy wall" (See Hub Room)
+(it quickraws, snaps, and returns on single key press, can be used while running)
+
+=Energy Drinks=
+-"Messa Drip" instantly recovers stamina
+-"Creature" temporarily Increases Speed
+-"Blue Cow" Extremely rare, potentially creates a Bullet time effect that slows world down but not character
+
+=Food=
+Fast food, lol
+-"Taco Hell Taco" Increases Health (Does not reset Clothing State)
+
+[Reserved]
+
+============Clothing States==============
+
+-Wet (From Water) Stamina recovers slower (cold)
+-Mud (From Mud  ) Stamina Recovers slower Traction is lessened, Potential slip to Prone.
+-Slime 1 (green)  Bind Character to world, enables struggle to get out, potential loss of Items
+-Slime 2 (White)  Slick, Potential Slipping to prone
+
+-Recovery from Clothing state-
+Wet = Running
+Mud = Running or Water
+Slime = Water
+
+-Hoodie/bag can be ditched or lost during enemy/trap/world Grapples.
+-Shoes Can be lost in deep Mud/green slime floor traps/ Heavy knockbacks from enemies (should be recoverable with Crouch+E if not lost)
+
+--When in Shoeless state "Difficult terrain" will drain stamina in places it normally wouldnt otherwise (Like stepping on rocks)
+
+=Clothing Damage Types=
+-Blunt = rips and dirt, 2 states that stack
+-Slash = Rips and Blood
+-Burn (fire, electricity)
+-Melt (acid)
+
+-Higher clothing loss chance in State one, even higher in state 2
+
+-------Clothing loss and state in action example--------------
+Graboid Monster begins swallowing Grapple
+Player escapes, Covered in white slime
+Landing on the ground she recovers and attempts to rush in to attack
+Slips falling prone infront of mob, Low stamina from escaping doesnt let her immediately stand (should have rolling dodge back)
+Stamina now probably isnt high enough to escape new grapple.
+/////////////////////////////
+Green slime Floor
+Player steps on it at slow speed and is Stuck to floor
+Balance meter to escape
+Fails and loses a shoe in slime (Unrecoverable)
+Fails worse and falls
+Loses hoodie (Unrecoverable)
+Suseptable to enemy attacks while Stuck
+needs to have enemies nearby incase she loses all loseable clothing and there isnt anything there to knock her out of it or kill her.
+/////////////////////////////
+Fall in deep mud
+High stamia drain to escape, otherwise acts as quicksand
+////////////////////////////
+
+Careful level design should be taken to ensure the player isnt "stuck and cant proceed or cant suicide to restart" Meaning there should be Traps 
+or enemies near things like this so you're not stuck in the bottom of a box you cant get out of.
+
+======Room Hub==========
+-Starting and retun point 
+-Has Bed for health recovery
+-Has Dresser for clothing recovery and alternate costumes
+-Has Crazy Wall for Level Select, Level completetion state, easter egg tracking (See Crazy Wall)
+-Rodriguez
+-Extra Item storage
+
+======Crazy Wall========
+-Images are gathered and assembled to determine future places to travel and clues to the story
+-Game options and save feature
+-Level select and percentage of completion
+-arrange Photos and Strings to piece together clues and events to lead to the next event
+
+=====Level Mechanics========
+-Balance beams
+-Water (swimming)
+-Mud (Quicksand)
+-Ladder Climbing
+-Wall slide and Jump
+-Hi speed object collision with player
+-tar pit
+
+
+=====Enemy Mechanics=======
+-Light attack (Blockable)
+-Heavy Attack (Knock back)
+-Grapple
+-Slime mechanics
+-Frame reward for proper dodge
+[reserved]
+
+====Traps====
+-Slime Spot
+-Oil Slick
+-Spike Pit
+-Retracable Spike
+-Horizontal Spike
+-Shotgun trap
+-Steel Wire
+-Trip wire (Bombs, Fire, Guns, Spill vats)
+-Crusher
+-Acid Pit
+-Vines
+-Thorn Vines
+
+[Reserved]
+
+
+
+
+
+
+
